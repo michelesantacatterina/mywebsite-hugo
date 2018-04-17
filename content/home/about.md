@@ -35,11 +35,9 @@ weight = 5
   course = "BSc in Statistics and Computer Science"
   institution = "University of Padua"
   year = 2009
- 
+
 +++
 
 # Biography
 
-I am a PhD candidate at the Unit of Biostatistics, Karolinska Institutet. My research focuses on the development and applications of stastitical methods for optimal decision making using experimental and observational data. From September 2018, I will join the Cornell TRIPODS Center for Data Science for Improved Decision Making as a Postdoc.
-
-
+I am a PhD candidate at the Unit of Biostatistics, Karolinska Institutet. My research focuses on the development and applications of statistical methods for optimal decision making using experimental and observational data. From September 2018, I will join the Cornell TRIPODS Center for Data Science for Improved Decision Making as a Postdoc.
