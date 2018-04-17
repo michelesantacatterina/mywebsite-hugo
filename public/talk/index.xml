@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Academic</title>
+    <link>https://michelesantacatterina.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michelesantacatterina.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimating treatment effects with optimal inverse probability weighting</title>
+      <link>https://michelesantacatterina.github.io/talk/rss17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/rss17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating treatment effects with optimal inverse probability weighting</title>
+      <link>https://michelesantacatterina.github.io/talk/ukcim17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/ukcim17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal balancing of time-dependent confounders for marginal structural models</title>
+      <link>https://michelesantacatterina.github.io/talk/eurocim/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/eurocim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal probability weights for inference with constrained precision</title>
+      <link>https://michelesantacatterina.github.io/talk/rss16/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/rss16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
