@@ -36,8 +36,8 @@ selected = true
 
 # Links (optional).
 #url_project = ""
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "http://nbviewer.jupyter.org/github/michelesantacatterina/mywebsite-hugo/blob/master/docs/Optimal%20probability%20weights%20for%20inference%20with%20constrained%20precision.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_slides = ""
