@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Causal Inference",
     "Biostatistics",
+    "Optimization",
     "Machine Learning"
   ]
 

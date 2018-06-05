@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-I have been a teaching assistant for the following courses for the Doctoral Program in Epidemiology and the Research School for Clinical Epidemiology at Karolinska Inst:
+I have been a teaching assistant for the following courses for the Doctoral Program in Epidemiology and the Research School for Clinical Epidemiology at Karolinska Institutet:
 
 - BIO1: Biostatistics I - Introduction for epidemiologists
 - BIO2: Biostatistics II - Logistic regression for epidemiologists

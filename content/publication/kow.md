@@ -14,14 +14,14 @@ authors = ["N Kallus", "M Santacatterina"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Work in progress"
-publication_short = "*Work in progress*"
+publication = "Submitted"
+publication_short = "*Submitted*"
 
 # Abstract and optional shortened version.
-abstract = "Marginal structural models (MSM) have been used to estimate the causal effect of a time-varying treatment on an outcome of interest with longitudinal data in observational studies. Despite their theoretical appeal, these methods are highly sensitive to misspecifications of the treatment assignment model and can lead high-variance estimates due to extreme weights whenever true propensities may be close to 0 or 1. In this paper, we present Kernel Optimal Weighting (KOW) which provides weights that optimally balance time-invariant and time-dependent confounders while controlling for the precision of the resulting MSM estimate. The method minimizes the error in estimation due to time-dependent confounding, expressed as an imbalance operator derived from a new decomposition of the weighted mean estimator, using reproducing kernel Hilbert spaces and quadratic programming. We evaluate the performance of KOW in a simulation study, comparing it with inverse probability weighting, stable inverse probability weighting, and the recently proposed covariate balancing propensity scores. We further extended KOW to control for informative censoring. We apply KOW to study the effect of treatment initiation on time to death among people who live with HIV and to study the effect of negative advertising on vote shares in the United States."
+abstract = "Marginal structural models (MSMs) estimate the causal effect of a time-varying treatment in the presence of time-dependent confounding via weighted regression. The standard approach of using inverse probability of treatment weighting (IPTW) can lead to high-variance estimates due to extreme weights and be sensitive to model misspecification. Various methods have been proposed to partially address this, including truncation and stabilized-IPTW to temper extreme weights and covariate balancing propensity score (CBPS) to address treatment model misspecification. In this paper, we present Kernel Optimal Weighting (KOW), a convex-optimization-based approach that finds weights for fitting the MSM that optimally balance time dependent confounders while simultaneously controlling for precision, directly addressing the above limitations. KOW directly minimizes the error in estimation due to time-dependent confounding via a new decomposition as a functional. We further extend KOW to control for informative censoring. We evaluate the performance of KOW in a simulation study, comparing it with IPTW, stabilized-IPTW, and CBPS. We demonstrate the use of KOW in studying the effect of treatment initiation on time-to-death among people living with HIV and the effect of negative advertising on elections in the United States."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,7 +36,7 @@ selected = true
 
 # Links (optional).
 #url_project = ""
-url_pdf = ""
+url_pdf = "https://arxiv.org/pdf/1806.01083.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -47,7 +47,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "JASA", url = "https://amstat.tandfonline.com/doi/full/10.1080/01621459.2017.1375932#.WspsS5NuYWo"}]
+url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/1806.01083"}]
 
 # Does the content use math formatting?
 math = false
@@ -63,4 +63,4 @@ caption = ""
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+# More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
