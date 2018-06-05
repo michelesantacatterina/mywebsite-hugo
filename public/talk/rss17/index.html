@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.39" />
+  <meta name="generator" content="Hugo 0.38.1" />
   <meta name="author" content="Michele Santacatterina">
 
   
@@ -29,7 +29,7 @@
 
   
   
-  <meta name="theme-color" content="#0095eb">
+  <meta name="theme-color" content="#3f51b5">
   
   
   
@@ -59,10 +59,23 @@
   
 
   
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-117716401-1', 'auto');
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
 
   
-  <link rel="alternate" href="https://michelesantacatterina.github.io/index.xml" type="application/rss+xml" title="Academic">
-  <link rel="feed" href="https://michelesantacatterina.github.io/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="alternate" href="https://michelesantacatterina.github.io/index.xml" type="application/rss+xml" title="">
+  <link rel="feed" href="https://michelesantacatterina.github.io/index.xml" type="application/rss+xml" title="">
   
 
   <link rel="manifest" href="/site.webmanifest">
@@ -73,9 +86,9 @@
 
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Academic">
+  <meta property="og:site_name" content="">
   <meta property="og:url" content="https://michelesantacatterina.github.io/talk/rss17/">
-  <meta property="og:title" content="Estimating treatment effects with optimal inverse probability weighting | Academic">
+  <meta property="og:title" content="Estimating treatment effects with optimal inverse probability weighting | ">
   <meta property="og:description" content="The average treatment effect is defined as the difference in the expectation of an outcome of interest between treatment groups. It is a popular summary measure, but when the treatment assignment is not random, it may not be directly interpretable. This is because potentially relevant factors may be unequally distributed across the treatment groups, and any observed differences in the outcome may not be accounted for by the treatment alone. Inverse probability weighting is often used to adjust for this potential unbalance. This method, however, is known to yield erratic and inefficient inference when outlying weights are present. Different approaches have been proposed to alleviate this limitation. These frequently entail introducing simplifying assumptions in the model for estimating the probability of being treated. While these approaches generally reduce the variability in the weights, and the consequent sampling variability of the weighted estimators, they can also introduce substantial bias. We present optimal inverse probability weighting, which minimizes the bias of the weighted estimator of the average treatment effect for any specified level of its standard error. The optimal weights are defined as the solution to a nonlinear constrained optimization problem. The method is evaluated in a simulation study and applied in the assessment of the timing of treatment initiation in individuals infected by the human immunodeficiency virus. The simulation study suggests that optimal inverse probability weighting has some desirable properties, such as: (1) it provides an estimated ATE with minimum bias while controlling for precision; (2) it allows the researcher to search for a suitable balance between bias and variance directly; (3) it can be implemented with available R packages, such as ``ipoptr&#39;&#39; and ``nloptr&#39;&#39;; and (4) it maintains all its properties regardless of the chosen estimator for the ATE.">
   <meta property="og:locale" content="en-us">
   
@@ -86,7 +99,7 @@
 
   
 
-  <title>Estimating treatment effects with optimal inverse probability weighting | Academic</title>
+  <title>Estimating treatment effects with optimal inverse probability weighting | </title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -105,7 +118,7 @@
         <span class="icon-bar"></span>
       </button>
       
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/"></a>
     </div>
 
     
@@ -147,44 +160,6 @@
           <a href="/#publications_selected">
             
             <span>Publications</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-        
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a href="/#posts">
-            
-            <span>Posts</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-        
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a href="/#projects">
-            
-            <span>Projects</span>
             
           </a>
         </li>

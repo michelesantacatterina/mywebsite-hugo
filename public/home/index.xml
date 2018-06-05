@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on </title>
     <link>https://michelesantacatterina.github.io/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -28,7 +28,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/home/about/</guid>
-      <description>Biography I am a PhD candidate at the Unit of Biostatistics, Karolinska Institutet. My research focuses on the development and applications of stastitical methods for optimal decision making using experimental and observational data. From September 2018, I will join the Cornell TRIPODS Center for Data Science for Improved Decision Making as a Postdoc.</description>
+      <description>Biography I am a PhD candidate at the Unit of Biostatistics, Karolinska Institutet. My research focuses on the development and applications of statistical methods for optimal decision making using experimental and observational data. From September 2018, I will join the Cornell TRIPODS Center for Data Science for Improved Decision Making as a Postdoc.</description>
     </item>
     
     <item>
