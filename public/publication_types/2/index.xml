@@ -7,15 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 08 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://michelesantacatterina.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CAB: Continuous Adaptive Blending Estimator for Policy Evaluation and Learning</title>
+      <link>https://michelesantacatterina.github.io/publication/cab/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/cab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More robust estimation of sample average treatment effects using Kernel Optimal Matching in an observational study of spine surgical interventions</title>
+      <link>https://michelesantacatterina.github.io/publication/kom-sate/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/kom-sate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimal balancing of time-dependent confounders for marginal structural models</title>
       <link>https://michelesantacatterina.github.io/publication/kow/</link>
-      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/kow/</guid>
       <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
@@ -24,19 +42,19 @@
     <item>
       <title>Optimal probability weights for estimating causal effects of time-varying treatments with marginal structural Cox models</title>
       <link>https://michelesantacatterina.github.io/publication/opw-mscm/</link>
-      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/opw-mscm/</guid>
-      <description>#More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Optimal probability weights for inference with constrained precision</title>
       <link>https://michelesantacatterina.github.io/publication/opw-constrained/</link>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/opw-constrained/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
   </channel>

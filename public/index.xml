@@ -7,13 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CAB: Continuous Adaptive Blending Estimator for Policy Evaluation and Learning</title>
+      <link>https://michelesantacatterina.github.io/publication/cab/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/cab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More robust estimation of sample average treatment effects using Kernel Optimal Matching in an observational study of spine surgical interventions</title>
+      <link>https://michelesantacatterina.github.io/publication/kom-sate/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/kom-sate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimal balancing of time-dependent confounders for marginal structural models</title>
       <link>https://michelesantacatterina.github.io/publication/kow/</link>
-      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/kow/</guid>
       <description>
@@ -25,27 +43,34 @@
     <item>
       <title>Optimal probability weights for estimating causal effects of time-varying treatments with marginal structural Cox models</title>
       <link>https://michelesantacatterina.github.io/publication/opw-mscm/</link>
-      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/opw-mscm/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
       <title>Optimal probability weights for inference with constrained precision</title>
       <link>https://michelesantacatterina.github.io/publication/opw-constrained/</link>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/opw-constrained/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Weighting for Causal Inference</title>
+      <link>https://michelesantacatterina.github.io/talk/ai-seminar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/ai-seminar/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Estimating treatment effects with optimal inverse probability weighting</title>
       <link>https://michelesantacatterina.github.io/talk/rss17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/rss17/</guid>
       <description></description>
@@ -54,7 +79,7 @@
     <item>
       <title>Estimating treatment effects with optimal inverse probability weighting</title>
       <link>https://michelesantacatterina.github.io/talk/ukcim17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/ukcim17/</guid>
       <description></description>
@@ -63,7 +88,7 @@
     <item>
       <title>Optimal balancing of time-dependent confounders for marginal structural models</title>
       <link>https://michelesantacatterina.github.io/talk/eurocim/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/eurocim/</guid>
       <description></description>
@@ -72,7 +97,7 @@
     <item>
       <title>Optimal probability weights for inference with constrained precision</title>
       <link>https://michelesantacatterina.github.io/talk/rss16/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/rss16/</guid>
       <description></description>
@@ -108,7 +133,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://michelesantacatterina.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://michelesantacatterina.github.io/post/getting-started/</guid>
       <description>

@@ -41,4 +41,4 @@ weight = 5
 
 # Biography
 
-I am a PhD candidate at the Unit of Biostatistics, Karolinska Institutet. My research focuses on the development and applications of statistical methods for optimal decision making using experimental and observational data. From September 2018, I will join the Cornell TRIPODS Center for Data Science for Improved Decision Making as a Postdoc.
+I am a postdoctoral associate at the Cornell TRIPODS Center for data science for improved decision making. My research focuses on the development and applications of statistical methods for optimal decision making using experimental and observational data. 

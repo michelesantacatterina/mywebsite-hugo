@@ -51,16 +51,16 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Michele Santacatterina"
-  role = "PhD Candidate"
+  role = "Postdoctoral Associate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Karolinska Institutet", url = "" } ]
+  organizations = [ { name = "Cornell University", url = "http://tripods.cis.cornell.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "michele.santacatterina@ki.se"
-  address = "Nobels Vag 13, 17177, Solna, Sweden"
+  email = "santacatterina@cornell.edu"
+  address = "2 West Loop Rd, New York, NY 10044"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   skype = "miksanta86"
@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:michele.santacatterina@ki.se"
+    link = "mailto:santacatterina@cornell.edu"
 
   [[params.social]]
     icon = "linkedin"

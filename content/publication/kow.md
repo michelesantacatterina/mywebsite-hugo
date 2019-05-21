@@ -1,6 +1,6 @@
 +++
 title = "Optimal balancing of time-dependent confounders for marginal structural models"
-date = "2018-04-08"
+date = "2018-09-08"
 
 # Authors. Comma separated list, e.g. `["Nathan Kallus", "Michele Santacatterina"]`.
 authors = ["N Kallus", "M Santacatterina"]

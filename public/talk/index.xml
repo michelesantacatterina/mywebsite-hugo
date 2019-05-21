@@ -13,9 +13,18 @@
     
     
     <item>
+      <title>Optimal Weighting for Causal Inference</title>
+      <link>https://michelesantacatterina.github.io/talk/ai-seminar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/ai-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estimating treatment effects with optimal inverse probability weighting</title>
       <link>https://michelesantacatterina.github.io/talk/rss17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/rss17/</guid>
       <description></description>
@@ -24,7 +33,7 @@
     <item>
       <title>Estimating treatment effects with optimal inverse probability weighting</title>
       <link>https://michelesantacatterina.github.io/talk/ukcim17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/ukcim17/</guid>
       <description></description>
@@ -33,7 +42,7 @@
     <item>
       <title>Optimal balancing of time-dependent confounders for marginal structural models</title>
       <link>https://michelesantacatterina.github.io/talk/eurocim/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/eurocim/</guid>
       <description></description>
@@ -42,7 +51,7 @@
     <item>
       <title>Optimal probability weights for inference with constrained precision</title>
       <link>https://michelesantacatterina.github.io/talk/rss16/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/rss16/</guid>
       <description></description>

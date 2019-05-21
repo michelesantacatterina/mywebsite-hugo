@@ -1,6 +1,6 @@
 +++
 title = "Optimal probability weights for inference with constrained precision"
-date = "2017-08-25"
+date = "2018-06-28"
 
 # Authors. Comma separated list, e.g. `["Michele Santacatterina", "Matteo Bottai"]`.
 authors = ["M Santacatterina", "M Bottai"]
@@ -36,7 +36,7 @@ selected = true
 
 # Links (optional).
 #url_project = ""
-url_pdf = "http://nbviewer.jupyter.org/github/michelesantacatterina/mywebsite-hugo/blob/master/docs/Optimal%20probability%20weights%20for%20inference%20with%20constrained%20precision.pdf"
+url_pdf = "http://nbviewer.jupyter.org/github/michelesantacatterina/docs/blob/master/Optimal%20probability%20weights%20for%20inference%20with%20constrained%20precision.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -63,4 +63,4 @@ caption = ""
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+

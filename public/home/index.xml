@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://michelesantacatterina.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Academic</title>
       <link>https://michelesantacatterina.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>https://michelesantacatterina.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
@@ -28,13 +28,13 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/home/about/</guid>
-      <description>Biography I am a PhD candidate at the Unit of Biostatistics, Karolinska Institutet. My research focuses on the development and applications of statistical methods for optimal decision making using experimental and observational data. From September 2018, I will join the Cornell TRIPODS Center for Data Science for Improved Decision Making as a Postdoc.</description>
+      <description>Biography I am a postdoctoral associate at the Cornell TRIPODS Center for data science for improved decision making. My research focuses on the development and applications of statistical methods for optimal decision making using experimental and observational data.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
       <link>https://michelesantacatterina.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://michelesantacatterina.github.io/home/publications_selected/</guid>
       <description></description>
@@ -43,7 +43,7 @@
     <item>
       <title>Recent Publications</title>
       <link>https://michelesantacatterina.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://michelesantacatterina.github.io/home/publications/</guid>
       <description></description>
@@ -89,7 +89,7 @@
     <item>
       <title>Tags</title>
       <link>https://michelesantacatterina.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
       <guid>https://michelesantacatterina.github.io/home/tags/</guid>
       <description></description>
