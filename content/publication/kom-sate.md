@@ -1,6 +1,6 @@
 +++
 title = "More robust estimation of sample average treatment effects using Kernel Optimal Matching in an observational study of spine surgical interventions"
-date = "2018-11-19"
+date = "2019-04-16"
 
 # Authors. Comma separated list, e.g. `["Nathan Kallus", "Brenton Pennicooke", "Michele Santacatterina"]`.
 authors = ["N Kallus", "B Pennicooke", "M Santacatterina"]
@@ -17,8 +17,8 @@ authors = ["N Kallus", "B Pennicooke", "M Santacatterina"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
-publication_short = "*Submitted*"
+publication = "Under Review"
+publication_short = "*Under Review*"
 
 # Abstract and optional shortened version.
 abstract = "Inverse probability of treatment weighting (IPTW), which has been used to estimate sample average treatment effects (SATE) using observational data, tenuously relies on the positivity assumption and the correct specification of the treatment assignment model, both of which are problematic assumptions in many observational studies. Various methods have been proposed to overcome these challenges, including truncation, covariate-balancing propensity scores, and stable balancing weights. Motivated by an observational study in spine surgery, in which positivity is violated and the true treatment assignment model is unknown, we present the use of optimal balancing by Kernel Optimal Matching (KOM) to estimate SATE. By uniformly controlling the conditional mean squared error of a weighted estimator over a class of models, KOM simultaneously mitigates issues of possible misspecification of the treatment assignment model and is able to handle practical violations of the positivity assumption, as shown in our simulation study. Using data from a clinical registry, we apply KOM to compare two spine surgical interventions and demonstrate how the result matches the conclusions of clinical trials that IPTW estimates spuriously refute."
@@ -36,7 +36,7 @@ selected = true
 
 # Links (optional).
 #url_project = ""
-url_pdf = "https://arxiv.org/pdf/1811.04274.pdf"
+url_pdf = "https://docs.google.com/viewer?url=https://github.com/michelesantacatterina/docs/raw/master/More%20robust%20estimation%20of%20SATE%20using%20KOM.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

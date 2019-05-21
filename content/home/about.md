@@ -41,4 +41,4 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral associate at the Cornell TRIPODS Center for data science for improved decision making. My research focuses on the development and applications of statistical methods for optimal decision making using experimental and observational data. 
+I am a postdoctoral associate at the Cornell TRIPODS Center for data science for improved decision making. My research focuses on the development and applications of statistical methods for optimal decision making using experimental and observational data. I am currently based at [Cornell Tech](https://tech.cornell.edu/) in NYC. 

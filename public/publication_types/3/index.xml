@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on </title>
+    <link>https://michelesantacatterina.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michelesantacatterina.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kernel Optimal Independence Weighting for the Estimation of Continuous Treatment Effects</title>
+      <link>https://michelesantacatterina.github.io/publication/koiw/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/koiw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Estimation of Generalized Average Treatment Effects via Kernel Optimal Matching</title>
+      <link>https://michelesantacatterina.github.io/publication/gate/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/gate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile based regression for life expectancy estimation with censored data</title>
+      <link>https://michelesantacatterina.github.io/publication/quant_cens/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/quant_cens/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

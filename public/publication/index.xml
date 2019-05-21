@@ -13,6 +13,33 @@
     
     
     <item>
+      <title>Kernel Optimal Independence Weighting for the Estimation of Continuous Treatment Effects</title>
+      <link>https://michelesantacatterina.github.io/publication/koiw/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/koiw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Estimation of Generalized Average Treatment Effects via Kernel Optimal Matching</title>
+      <link>https://michelesantacatterina.github.io/publication/gate/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/gate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile based regression for life expectancy estimation with censored data</title>
+      <link>https://michelesantacatterina.github.io/publication/quant_cens/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/quant_cens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CAB: Continuous Adaptive Blending Estimator for Policy Evaluation and Learning</title>
       <link>https://michelesantacatterina.github.io/publication/cab/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
@@ -24,7 +51,7 @@
     <item>
       <title>More robust estimation of sample average treatment effects using Kernel Optimal Matching in an observational study of spine surgical interventions</title>
       <link>https://michelesantacatterina.github.io/publication/kom-sate/</link>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/kom-sate/</guid>
       <description></description>
@@ -33,10 +60,10 @@
     <item>
       <title>Optimal balancing of time-dependent confounders for marginal structural models</title>
       <link>https://michelesantacatterina.github.io/publication/kow/</link>
-      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/kow/</guid>
-      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+      <description></description>
     </item>
     
     <item>
