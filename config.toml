@@ -51,19 +51,20 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Michele Santacatterina"
-  role = "Postdoctoral Associate"
+  role = "Assistant Research Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Cornell University", url = "http://tripods.cis.cornell.edu/" } ]
+  organizations = [ { name = "George Washington University", url = "https://biostatcenter.gwu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "santacatterina@cornell.edu"
-  address = "2 West Loop Rd, New York, NY 10044"
+  email = "msanta@gwu.edu"
+  #email = "michele.santacatterina@gmail.com"
+  address = ""
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
-  skype = "miksanta86"
+  skype = ""
   #telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -115,7 +116,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -217,7 +218,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:santacatterina@cornell.edu"
+    link = "mailto:msanta@gwu.edu"
 
   [[params.social]]
     icon = "linkedin"
@@ -256,22 +257,27 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Selected Publications"
   url = "#publications_selected"
+  weight = 3
+
+[[menu.main]]
+  name = "Resume"
+  url = "/docs/cv-santacatterina-aug2020.pdf"
   weight = 2
 
   [[menu.main]]
     name = "Papers in Preparation"
     url = "#publications"
-    weight = 3
+    weight = 4
 
 #[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
 #  weight = 3
 
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 4
 
 [[menu.main]]
   name = "Talks"

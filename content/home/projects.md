@@ -1,10 +1,10 @@
 +++
 # Projects widget.
 widget = "projects"
-active = false
+active = true
 date = "2016-04-20T00:00:00"
 
-title = "Ongoing Projects"
+title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -28,17 +28,6 @@ filter_default = 0
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-[[filter]]
-  name = "All"
-  tag = "*"
 
-[[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
-
-[[filter]]
-  name = "Other"
-  tag = ".demo"
 
 +++
-

@@ -10,10 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Causal Inference",
     "Biostatistics",
+    "Causal inference",
     "Optimization",
-    "Machine Learning"
+    "Machine learning",
+    "Medicine",
+    "Public health"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -41,4 +43,4 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral associate at the Cornell TRIPODS Center for data science for improved decision making. My research focuses on the development and applications of statistical methods for optimal decision making using experimental and observational data. I am currently based at [Cornell Tech](https://tech.cornell.edu/) in NYC. 
+I am an Assistant Research Professor in the [Biostatistics Center](https://biostatcenter.gwu.edu/) and the [Department of Biostatistics and Bioinformatics](https://publichealth.gwu.edu/departments/biostatistics-and-bioinformatics) at the [George Washington University School of Public Health](https://publichealth.gwu.edu/). My research focuses on the development and applications of statistical and data science methods for optimal decision making using real-world and experimental data. Previously, I was a postdoctoral associate at the [Cornell TRIPODS Center for Data Science](https://tripods.cis.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/). 

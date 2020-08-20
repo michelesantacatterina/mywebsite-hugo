@@ -5,6 +5,42 @@
     
     <url>
     
+      <loc>https://michelesantacatterina.github.io/project/covid/</loc>
+      <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michelesantacatterina.github.io/project/rw_methods/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michelesantacatterina.github.io/project/spine/</loc>
+      <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michelesantacatterina.github.io/project/bleed/</loc>
+      <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://michelesantacatterina.github.io/publication/koiw/</loc>
       <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     </url>
@@ -95,8 +131,8 @@
     
     <url>
     
-      <loc>https://michelesantacatterina.github.io/talk/rss17/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>https://michelesantacatterina.github.io/talk/mlinmed/</loc>
+      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -104,8 +140,44 @@
     
     <url>
     
-      <loc>https://michelesantacatterina.github.io/talk/ukcim17/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>https://michelesantacatterina.github.io/talk/enra20/</loc>
+      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michelesantacatterina.github.io/talk/mcgill19/</loc>
+      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michelesantacatterina.github.io/talk/neurips19/</loc>
+      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michelesantacatterina.github.io/talk/samsi19/</loc>
+      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michelesantacatterina.github.io/project/hiv/</loc>
+      <lastmod>2017-09-25T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -114,6 +186,15 @@
     <url>
     
       <loc>https://michelesantacatterina.github.io/talk/eurocim/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michelesantacatterina.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -131,7 +212,16 @@
     
     <url>
     
-      <loc>https://michelesantacatterina.github.io/post/</loc>
+      <loc>https://michelesantacatterina.github.io/talk/rss17/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michelesantacatterina.github.io/talk/ukcim17/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -167,8 +257,8 @@
     
     <url>
     
-      <loc>https://michelesantacatterina.github.io/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>https://michelesantacatterina.github.io/project/vulnerable_pop/</loc>
+      <lastmod>2016-09-24T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -176,7 +266,7 @@
     
     <url>
     
-      <loc>https://michelesantacatterina.github.io/project/example-external-project/</loc>
+      <loc>https://michelesantacatterina.github.io/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -205,7 +295,7 @@
     <url>
     
       <loc>https://michelesantacatterina.github.io/publication_types/2/</loc>
-      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -234,7 +324,7 @@
     <url>
     
       <loc>https://michelesantacatterina.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2020-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -244,7 +334,7 @@
     <url>
     
       <loc>https://michelesantacatterina.github.io/publication_types/</loc>
-      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -255,16 +345,6 @@
     
       <loc>https://michelesantacatterina.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://michelesantacatterina.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

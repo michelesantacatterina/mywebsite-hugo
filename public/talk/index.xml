@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Optimal Estimation of the Generalized Average Treatment Effect</title>
+      <title>ACIC 2019</title>
       <link>https://michelesantacatterina.github.io/talk/acic2019/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Optimal Weighting for Causal Inference</title>
+      <title>Cornell - AI Seminar</title>
       <link>https://michelesantacatterina.github.io/talk/ai-seminar/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
@@ -31,25 +31,52 @@
     </item>
     
     <item>
-      <title>Estimating treatment effects with optimal inverse probability weighting</title>
-      <link>https://michelesantacatterina.github.io/talk/rss17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>Cornell - Machine Learning in Medicine Seminar</title>
+      <link>https://michelesantacatterina.github.io/talk/mlinmed/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://michelesantacatterina.github.io/talk/rss17/</guid>
+      <guid>https://michelesantacatterina.github.io/talk/mlinmed/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Estimating treatment effects with optimal inverse probability weighting</title>
-      <link>https://michelesantacatterina.github.io/talk/ukcim17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>ENAR 2020</title>
+      <link>https://michelesantacatterina.github.io/talk/enra20/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://michelesantacatterina.github.io/talk/ukcim17/</guid>
+      <guid>https://michelesantacatterina.github.io/talk/enra20/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Optimal balancing of time-dependent confounders for marginal structural models</title>
+      <title>McGill - Biostatistics Seminar</title>
+      <link>https://michelesantacatterina.github.io/talk/mcgill19/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/mcgill19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeurIPS 2019 Workshop</title>
+      <link>https://michelesantacatterina.github.io/talk/neurips19/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/neurips19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAMSI 2019</title>
+      <link>https://michelesantacatterina.github.io/talk/samsi19/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/samsi19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>European Causal Inference Meeting</title>
       <link>https://michelesantacatterina.github.io/talk/eurocim/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
@@ -58,11 +85,29 @@
     </item>
     
     <item>
-      <title>Optimal probability weights for inference with constrained precision</title>
+      <title>Royal Statistical Society 2016 International Conference</title>
       <link>https://michelesantacatterina.github.io/talk/rss16/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/rss16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Royal Statistical Society 2017 International Conference</title>
+      <link>https://michelesantacatterina.github.io/talk/rss17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/rss17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UK Causal Inference Meeting 2017</title>
+      <link>https://michelesantacatterina.github.io/talk/ukcim17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/ukcim17/</guid>
       <description></description>
     </item>
     

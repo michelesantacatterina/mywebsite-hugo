@@ -14,11 +14,11 @@ authors = ["N Kallus", "M Santacatterina"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Work in Progress"
-publication_short = "Work in Progress"
+publication = "Submitted"
+publication_short = "*Submitted*"
 
 # Abstract and optional shortened version.
 abstract = "In causal inference, a variety of causal effect estimands have been studied, including the sample, uncensored, target, conditional, and optimally-weighted average treatment effects. Ad-hoc methods have been developed for each estimand based on inverse probability weighting (IPW) and on outcome regression modeling, but these may be sensitive to model misspecification, practical violations of positivity, or both. The contribution of this paper is twofold. First, we formulate the generalized average treatment effect (GATE) to unify these causal estimands as well as their IPW estimates. Second, we develop a method based on Kernel Optimal Matching (KOM) to optimally estimate GATE and even to find the most easily estimable GATE. KOM provides uniform control on the conditional mean squared error of a weighted estimator over a class of models while simultaneously controlling for precision. We study its theoretical properties and evaluate its comparative performance in a simulation study. We illustrate the use of KOM for GATE estimation in two case studies: comparing spine surgical interventions and studying the effect of peer support on people living with HIV."
@@ -27,7 +27,7 @@ abstract = "In causal inference, a variety of causal effect estimands have been 
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -36,7 +36,7 @@ selected = false
 
 # Links (optional).
 #url_project = ""
-url_pdf = ""
+url_pdf = "https://arxiv.org/pdf/1908.04748.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -48,6 +48,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/1806.01083"}]
+url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/1908.04748"}]
 
 # Does the content use math formatting?
 math = false
