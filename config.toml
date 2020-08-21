@@ -259,10 +259,10 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 3
 
-#[[menu.main]]
-#  name = "Resume"
-#  url = "/docs/cv-santacatterina-aug2020.pdf"
-#  weight = 2
+[[menu.main]]
+  name = "Resume"
+  url = "/docs/cv-santacatterina-aug2020.pdf"
+  weight = 2
 
   [[menu.main]]
     name = "Papers in Preparation"
