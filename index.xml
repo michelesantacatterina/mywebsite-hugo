@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://michelesantacatterina.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>COVID-19: Prevention and treatment</title>
+      <link>https://michelesantacatterina.github.io/project/covid/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/project/covid/</guid>
+      <description>&lt;p&gt;COVID-19 is the most significant global health emergency in recent memory, with hundreds of thousands dead and widespread economic disruption.&lt;/p&gt;
+
+&lt;p&gt;The goal of this project is to understand the distribution, treatments and effects of COVID-19, particularly on underserved populations, ultimately improving public health. I am a co-investigator of two COVID-19 projects with the following aims:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;To develop and apply state-of-the-art statistical and machine learning techniques to better prevent and optimally treat the deadly disease. More info on the studies can be found &lt;a href=&#34;https://biostatcenter.gwu.edu/projects/covid-19crp&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://publichealth.gwu.edu/content/george-washington-university-biostatistics-center-launches-three-covid-19-projects&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;To develop deep convolutional neural network survival methods to fully exploit medical images and time-dependent features to predict the probability of experiencing death, ICU admission, ICU discharge and hospital discharge. In collaboration with Weill Cornell and Columbia University.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Novel statistical methods for the optimal use of real-world patient data to improve clinical decision-making</title>
+      <link>https://michelesantacatterina.github.io/project/rw_methods/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/project/rw_methods/</guid>
+      <description>
+
+&lt;p&gt;Evidence-based medicine requires investigators to include the best available evidence into their clinical decision-making process. The best evidence regarding the causal effect of a treatment can be provided by properly conducted randomized trials. However, randomized trials, can be costly, infeasible, or unethical.&lt;/p&gt;
+
+&lt;p&gt;The goal of this project is to developed novel biostatistical methods that optimally leverage trials’ results and data from electronic medical registries which is more representative of real-world clinical practice.&lt;/p&gt;
+
+&lt;h2 id=&#34;optimally-estimating-treatment-effects-from-observational-data&#34;&gt;Optimally estimating treatment effects from observational data&lt;/h2&gt;
+
+&lt;h3 id=&#34;controlling-extreme-weights&#34;&gt;Controlling extreme weights&lt;/h3&gt;
+
+&lt;p&gt;Because traditional biostatistical methodologies to estimate the causal effect of a treatment using data from electronic medical registries, such as inverse probability weighting, may lead to erroneous results due to practical positivity violation (lack of overlap), I developed a novel biostatistical technique based on a constrained nonlinear optimization problem that provide optimal weights for inference with constrained precision. I found that the method proposed outperformed traditional biostatistical methodologies, such as truncated inverse probability weights, with respect to bias and mean squared error, and I applied it to evaluate the impact of CD4 cell count at treatment initiation among HIV infected patients.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Santacatterina, M., Bottai, M., &lt;a href=&#34;http://nbviewer.jupyter.org/github/michelesantacatterina/docs/blob/master/Optimal%20probability%20weights%20for%20inference%20with%20constrained%20precision.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Optimal probability weights for inference with constrained precision&lt;/em&gt;&lt;/a&gt;, JASA, 2018&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Santacatterina, M., et.al., &lt;a href=&#34;https://nbviewer.jupyter.org/github/michelesantacatterina/docs/blob/master/Optimal%20probability%20weights%20for%20MSCM%20rev.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Optimal probability weights for estimating causal effects of time-varying treatments with marginal structural Cox models&lt;/em&gt;&lt;/a&gt;, Statistics in Medicine, 2018&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;mitigating-model-misspecification-while-controlling-extreme-weights&#34;&gt;Mitigating model misspecification while controlling extreme weights&lt;/h3&gt;
+
+&lt;p&gt;To mitigate possible model misspecification while simultaneously controlling for precision, I worked on a method that find weights that directly maximize covariate balance. I found that the proposed methodology outperformed state-of-the-art techniques, and I applied it to evaluate the effect of a spine surgical intervention on patient-reported outcomes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Kallus, N., Pennicooke, B., Santacatterina, M., &lt;a href=&#34;https://docs.google.com/viewer?url=https://github.com/michelesantacatterina/docs/raw/master/More%20robust%20estimation%20of%20SATE%20using%20KOM.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;More robust estimation of sample average treatment effects using Kernel Optimal Matching in an observational study of spine surgical interventions&lt;/em&gt;&lt;/a&gt;, Under review on Statistics in Medicine, 2019&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Kallus, N., Santacatterina, M., &lt;a href=&#34;https://arxiv.org/pdf/1908.04748.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Optimal Estimation of Generalized Average Treatment Effects via Kernel Optimal Matching&lt;/em&gt;&lt;/a&gt;, 2019&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I extendend the proposed methodology to control for time-dependent confounders, which are confounders that are affected by previous treatments and impacts future ones.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kallus, N., Santacatterina, M., &lt;a href=&#34;https://docs.google.com/viewer?url=https://github.com/michelesantacatterina/docs/raw/master/Optimal%20balancing%20of%20time-dependent%20confounders%20for%20MSM.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Optimal balancing of time-dependent confounders for marginal structural models&lt;/em&gt;&lt;/a&gt;, 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I extended the proposed methodology to optimally to balance confounders to estimate causal effects of continuous treatments.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kallus, N., Santacatterina, M., &lt;a href=&#34;https://arxiv.org/pdf/1910.11972&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Kernel Optimal Orthogonality Weighting: A Balancing Approach to Estimating Effects of Continuous Treatment&lt;/em&gt;&lt;/a&gt;, Work in progress, 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;generalizing-trials-results&#34;&gt;Generalizing trials&amp;rsquo; results&lt;/h2&gt;
+
+&lt;p&gt;Because trial participants may not be representative of the real-world population, I developed a biostatistical methodology that provide robust weights to generalize trials’ results to target populations. I found that the method outperformed traditional state-of-the-art methods and I applied it to generalize the effect of peer support on viral failure among HIV infected patients from Vietnam to the United States.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kallus, N., Santacatterina, M., &lt;a href=&#34;https://arxiv.org/pdf/1908.04748.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Optimal Estimation of Generalized Average Treatment Effects via Kernel Optimal Matching&lt;/em&gt;&lt;/a&gt;, 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;precision-medicine&#34;&gt;Precision medicine&lt;/h2&gt;
+
+&lt;p&gt;To evaluate and learn optimal individualized treatment regimes, I proposed the used of a doubly robust estimator and present a method that optimally combines weighted and outcome modeling techniques. I found that the proposed methodology performs well in terms of mean square error and bias.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Su, Y., Wang, L., Santacatterina, M., Thorsten, J., &lt;a href=&#34;https://arxiv.org/pdf/1811.02672.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;CAB: Continuous Adaptive Blending Estimator for Policy Evaluation and Learning&lt;/em&gt;&lt;/a&gt;, Accepted at NeurIPS 2018 Workshop on Causal Learning and ICML 2019, 2019&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal care for patients undergoing surgical interventions</title>
+      <link>https://michelesantacatterina.github.io/project/spine/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/project/spine/</guid>
+      <description>&lt;p&gt;Back pain is one of the most common causes of work loss due to disability, posing an economic burden on society in the United States. Understanding what are the patient features that are highly predictive for patient-reported outcomes, is essential to help to provide the best cares for patients and more cost-effective interventions.&lt;/p&gt;
+
+&lt;p&gt;The goal of this project is to provide best practices for treatment care and management of patients who underwent surgical interventions.&lt;/p&gt;
+
+&lt;p&gt;To identify clinical features and patient-reported outcomes among patients undergoing spine surgeries, I have designed a retrospective cohort study and analyzed it by using a multivariable logistic regression model to evaluate the effect of age, fusion levels and their interactions on patient-reported outcomes. I found that age affects the discharge destination after a one- or multi-level fusion and intraoperative/postoperative blood transfusion after a one-level fusion.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pennicooke, B., Santacatterina, M., et.al., &lt;em&gt;The effect of age, fusion levels and their interactions on unfavorable outcomes and complications: A Retrospective Study of 60,000 patients.&lt;/em&gt; (Submitted to Clinical Spine Surgery), 2020&lt;/li&gt;
+&lt;li&gt;Pennicooke, B., Santacatterina, M., et.al., &lt;em&gt;Machine Learning Algorithm for Prediction of Patient-Reported Outcomes with Age- Adjusted Modeling in Patients with Grade 1 Spondylolisthesis&lt;/em&gt; (Work in progress), 2020&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Because spine surgery is especially susceptible to malpractice claims, which drives up medical costs, I designed a study and analyzed the relationship of malpractice claims on outcomes following spine surgical interventions, using a inverse-probability-weighted regression-adjustment estimator. I also applied gradient boosting classifiers and regressor to predict the outcomes as function of the patients’ characteristics. I found that malpractice claims were associated with an increased odds of non-home discharge, longer LOS, and higher total charges.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Chan, A., Santacatterina, M., et. al., &lt;em&gt;Does state malpractice environment affect outcomes following spinal fusions? A robust statistical and machine learning analysis of 549,775 discharges following spinal fusion surgery in the United States&lt;/em&gt;, Submitted to Journal of Neurosurgery: Neurosurgical Focus, 2020&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding and predicting the risk of bleeding disorders</title>
+      <link>https://michelesantacatterina.github.io/project/bleed/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/project/bleed/</guid>
+      <description>&lt;p&gt;Bleeding disorders such as von Willebrand disease and hemophilia are conditions that occur when the blood cannot clot properly.&lt;/p&gt;
+
+&lt;p&gt;Because the clinical burden, societal impact and economic impact of mild and severe bleeding disorders are not as clearly understood, I will&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;apply novel biostatistical and machine learning methods to help understand and predict the risk of bleeding disorders,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;apply novel causal inference methods to evaluate the effect of clinical interventions on the risk of bleeding disorders, and&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;learn if individualized treatment regimes are effective for personalized decision-making.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are in the first stage of the project. I have been working on objective 1) by designing the study and applying state-of-the-art biostatistical and machine learning methods to predict risk of having a bleeding disorder as a function of patients’ characteristics. For instance, I was able to successfully and accurately predict that a young woman with specific characteristics will develop menstrual bleeding disorder.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kernel Optimal Orthogonality Weighting: A Balancing Approach to Estimating Effects of Continuous Treatments</title>
+      <link>https://michelesantacatterina.github.io/publication/koiw/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/koiw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Estimation of Generalized Average Treatment Effects via Kernel Optimal Matching</title>
+      <link>https://michelesantacatterina.github.io/publication/gate/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/gate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile based regression for life expectancy estimation with censored data</title>
+      <link>https://michelesantacatterina.github.io/publication/quant_cens/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/quant_cens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAB: Continuous Adaptive Blending Estimator for Policy Evaluation and Learning</title>
+      <link>https://michelesantacatterina.github.io/publication/cab/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/cab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More robust estimation of sample average treatment effects using Kernel Optimal Matching in an observational study of spine surgical interventions</title>
+      <link>https://michelesantacatterina.github.io/publication/kom-sate/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/kom-sate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal balancing of time-dependent confounders for marginal structural models</title>
+      <link>https://michelesantacatterina.github.io/publication/kow/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/kow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal probability weights for estimating causal effects of time-varying treatments with marginal structural Cox models</title>
+      <link>https://michelesantacatterina.github.io/publication/opw-mscm/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/opw-mscm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal probability weights for inference with constrained precision</title>
+      <link>https://michelesantacatterina.github.io/publication/opw-constrained/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/opw-constrained/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACIC 2019</title>
+      <link>https://michelesantacatterina.github.io/talk/acic2019/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/acic2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cornell - AI Seminar</title>
+      <link>https://michelesantacatterina.github.io/talk/ai-seminar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/ai-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cornell - Machine Learning in Medicine Seminar</title>
+      <link>https://michelesantacatterina.github.io/talk/mlinmed/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/mlinmed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
