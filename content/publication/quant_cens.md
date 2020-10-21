@@ -1,5 +1,5 @@
 +++
-title = "Quantile based regression for life expectancy estimation with censored data"
+title = "Conditional life expectancy estimation by ordered fractions of population with censored data"
 date = "2019-05-21"
 
 # Authors. Comma separated list, e.g. `["Nathan Kallus", "Michele Santacatterina"]`.
@@ -21,7 +21,7 @@ publication = "Work in Progress"
 publication_short = "Work in Progress"
 
 # Abstract and optional shortened version.
-abstract = "TBA"
+abstract = "Life expectancy is one of the most commonly used measures to describe population’s health. However, its estimation might be hindered in the presence of censoring, where the time variable is only observed until a certain quantile. To deal with this issue, available methods for life expectancy estimation entail, for example, the ad-hoc choice of a cut-off time point until which the time variable has been observed, and that yields estimated quantities that have difficult interpretation. We propose a novel quantile-based approach for estimating life expectancy in terms of observed covariates of interest and in the presence of censored data, in which we divide the population under study into survival-ordered fractions defined by a set of proportions, and provide conditional life expectancy estimators for each fraction separately. Our approach provides a detailed picture of the distribution of time-to-death while preserving the appealing interpretability of life expectancy estimates and allows for easy groups’ comparisons. In a simulation study, we show the use of our methodology in combination with widely used survival analysis models and show its advantages with respect to other available methods. In particular, our measure proves to be of great use for detecting differences in life expectancy across specific fractions that currently used methods fail to detect. Finally, we apply our method to life expectancy estimation on late presenters, that is, among those who start treatment late, on data from a clinical trial on people living with human immunodeficiency virus in the United States."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,7 +36,7 @@ selected = false
 
 # Links (optional).
 #url_project = ""
-url_pdf = ""
+url_pdf = "https://docs.google.com/viewer?url=https://github.com/michelesantacatterina/docs/raw/master/Conditional_LE.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

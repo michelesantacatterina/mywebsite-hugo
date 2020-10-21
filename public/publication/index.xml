@@ -13,6 +13,25 @@
     
     
     <item>
+      <title>Robust weights that optimally balance confounders for estimating the effect of binary and continuous treatments with time-to-event data</title>
+      <link>https://michelesantacatterina.github.io/publication/row/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/row/</guid>
+      <description>The R package (with instructions on how to install the package and several examples) is available here: https://github.com/michelesantacatterina/ROW
+The code for the simulations and the case studies analyses is provided here: https://github.com/michelesantacatterina/ROW-time-to-event</description>
+    </item>
+    
+    <item>
+      <title>Conditional life expectancy estimation by ordered fractions of population with censored data</title>
+      <link>https://michelesantacatterina.github.io/publication/quant_cens/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/quant_cens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kernel Optimal Orthogonality Weighting: A Balancing Approach to Estimating Effects of Continuous Treatments</title>
       <link>https://michelesantacatterina.github.io/publication/koiw/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
@@ -27,15 +46,6 @@
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/gate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantile based regression for life expectancy estimation with censored data</title>
-      <link>https://michelesantacatterina.github.io/publication/quant_cens/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/quant_cens/</guid>
       <description></description>
     </item>
     

@@ -11,6 +11,19 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Robust weights that optimally balance confounders for estimating the effect of binary and continuous treatments with time-to-event data</title>
+      <link>https://michelesantacatterina.github.io/publication/row/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/row/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;R&lt;/strong&gt; package (with instructions on how to install the package and several examples) is available here: &lt;a href=&#34;https://github.com/michelesantacatterina/ROW&#34; target=&#34;_blank&#34;&gt;https://github.com/michelesantacatterina/ROW&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The code for the simulations and the case studies analyses is provided here:
+&lt;a href=&#34;https://github.com/michelesantacatterina/ROW-time-to-event&#34; target=&#34;_blank&#34;&gt;https://github.com/michelesantacatterina/ROW-time-to-event&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>COVID-19: Prevention and treatment</title>
       <link>https://michelesantacatterina.github.io/project/covid/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
@@ -73,6 +86,10 @@
 &lt;ul&gt;
 &lt;li&gt;Kallus, N., Santacatterina, M., &lt;a href=&#34;https://arxiv.org/pdf/1910.11972&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Kernel Optimal Orthogonality Weighting: A Balancing Approach to Estimating Effects of Continuous Treatment&lt;/em&gt;&lt;/a&gt;, Work in progress, 2019&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;I proposed a new robust weights that balance confounders for both binary and continuous treatments with time-to-event-data. I applied the proposed weights on the evaluation of the effect of hormone therapy on time to coronary heart disease and on the effect of red meat consumption on time to colon cancer among 24,069 postmenopausal women enrolled in the Women’s Health Initiative observational study.&lt;/p&gt;
+
+&lt;p&gt;Santacatterina, M., &lt;a href=&#34;https://docs.google.com/viewer?url=https://arxiv.org/pdf/2010.07695.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Robust weights that optimally balance confounders for estimating the effect of binary and continuous treatments with time-to-event data&lt;/em&gt;&lt;/a&gt;, 2020&lt;/p&gt;
 
 &lt;h2 id=&#34;generalizing-trials-results&#34;&gt;Generalizing trials&amp;rsquo; results&lt;/h2&gt;
 
@@ -140,6 +157,15 @@
     </item>
     
     <item>
+      <title>Conditional life expectancy estimation by ordered fractions of population with censored data</title>
+      <link>https://michelesantacatterina.github.io/publication/quant_cens/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/quant_cens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kernel Optimal Orthogonality Weighting: A Balancing Approach to Estimating Effects of Continuous Treatments</title>
       <link>https://michelesantacatterina.github.io/publication/koiw/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
@@ -154,15 +180,6 @@
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/gate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantile based regression for life expectancy estimation with censored data</title>
-      <link>https://michelesantacatterina.github.io/publication/quant_cens/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/quant_cens/</guid>
       <description></description>
     </item>
     
@@ -226,15 +243,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/ai-seminar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cornell - Machine Learning in Medicine Seminar</title>
-      <link>https://michelesantacatterina.github.io/talk/mlinmed/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/talk/mlinmed/</guid>
       <description></description>
     </item>
     
