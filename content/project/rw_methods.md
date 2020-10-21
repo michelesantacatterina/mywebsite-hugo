@@ -60,6 +60,10 @@ I extended the proposed methodology to optimally to balance confounders to estim
 
 - Kallus, N., Santacatterina, M., [*Kernel Optimal Orthogonality Weighting: A Balancing Approach to Estimating Effects of Continuous Treatment*](https://arxiv.org/pdf/1910.11972), Work in progress, 2019
 
+I proposed a new robust weights that balance confounders for both binary and continuous treatments with time-to-event-data. I applied the proposed weights on the evaluation of the effect of hormone therapy on time to coronary heart disease and on the effect of red meat consumption on time to colon cancer among 24,069 postmenopausal women enrolled in the Women’s Health Initiative observational study.
+
+Santacatterina, M., [*Robust weights that optimally balance confounders for estimating the effect of binary and continuous treatments with time-to-event data*](https://docs.google.com/viewer?url=https://arxiv.org/pdf/2010.07695.pdf), 2020
+
 
 ## Generalizing trials' results
 

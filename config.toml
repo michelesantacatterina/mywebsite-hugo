@@ -261,7 +261,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Resume"
-  url = "/docs/cv-santacatterina-aug2020.pdf"
+  url = "https://drive.google.com/file/d/1JWgRM1O9wlgVu0omkozEsOe04aqPQR7e/view?usp=sharing"
   weight = 2
 
   [[menu.main]]
