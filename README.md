@@ -14,7 +14,7 @@
 
 3. ###Change the website's contents (use markdown)
 
-	cd /Users/micsan/Google Drive/Cornell/Github/mywebsite-hugo/
+	cd /Users/micsan/Documents/Github/mywebsite-hugo/
 	
 	hugo server
 	
@@ -36,7 +36,7 @@
 	
 	cd michelesantacatterina.github.io
 	
-	cp -av /Users/micsan/Google\ Drive/Cornell/Github/mywebsite-hugo/public/* .
+	cp -av /Users/micsan/Documents/Github/mywebsite-hugo/public/* .
 	
 	
 	git add -A
