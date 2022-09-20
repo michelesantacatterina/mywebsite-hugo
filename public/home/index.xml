@@ -28,7 +28,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/home/about/</guid>
-      <description>Biography I am an Assistant Research Professor in the Biostatistics Center and the Department of Biostatistics and Bioinformatics at the George Washington University School of Public Health. My research focuses on the development and applications of statistical and data science methods for optimal decision making using real-world and experimental data. Previously, I was a postdoctoral associate at the Cornell TRIPODS Center for Data Science and Cornell Tech.</description>
+      <description>Biography I am an Assistant Professor of Biostatistics at the Division of Biostatistics at the Department of Population Health, NYU Grossman School of Medicine.
+Previously, I was an Assistant Research Professor of Biostatistics at the Biostatistics Center and the Department of Biostatistics and Bioinformatics at the George Washington University School of Public Health, and a postdoctoral associate at the Cornell TRIPODS Center for Data Science and Cornell Tech mentored by Dr.</description>
     </item>
     
     <item>
@@ -82,7 +83,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/home/teaching/</guid>
-      <description>I have been a teaching assistant for the following courses for the Doctoral Program in Epidemiology and the Research School for Clinical Epidemiology at Karolinska Institutet:
+      <description>Fall 2022:
+ Statistical Learning; PhD-level class; (link to brightspace)  Spring 2023:
+ Statistical Inference; PhD-level class; Details TBD  I have been a teaching assistant for the following courses for the Doctoral Program in Epidemiology and the Research School for Clinical Epidemiology at Karolinska Institutet:
  BIO1: Biostatistics I - Introduction for epidemiologists BIO2: Biostatistics II - Logistic regression for epidemiologists  </description>
     </item>
     
@@ -102,6 +105,15 @@
       
       <guid>https://michelesantacatterina.github.io/home/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Other Interests</title>
+      <link>https://michelesantacatterina.github.io/home/hobbies/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/home/hobbies/</guid>
+      <description>When I am not reading about biostatistics and data science, I like to learn more about contemporary history. I also enjoy keeping myself active by playing sports and going to the gym. I love to play and listen to music, especially electronic and film music. During the past few years I started several electronic music projects that included production using Ableton Live. Last but not least, I love to play, cuddle and spoil my fluffy dog Mister Pom Princess ``PK&amp;rdquo; Cake.</description>
     </item>
     
   </channel>

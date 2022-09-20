@@ -15,6 +15,14 @@ weight = 60
 
 +++
 
+Fall 2022:
+
+- Statistical Learning; PhD-level class; ([link to brightspace](link to https://brightspace.nyu.edu/d2l/home/223613))
+
+Spring 2023:
+
+- Statistical Inference; PhD-level class; Details TBD
+
 I have been a teaching assistant for the following courses for the Doctoral Program in Epidemiology and the Research School for Clinical Epidemiology at Karolinska Institutet:
 
 - BIO1: Biostatistics I - Introduction for epidemiologists

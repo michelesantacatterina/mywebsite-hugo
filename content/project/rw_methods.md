@@ -77,4 +77,11 @@ To evaluate and learn optimal individualized treatment regimes, I proposed the u
 
 - Su, Y., Wang, L., Santacatterina, M., Thorsten, J., [*CAB: Continuous Adaptive Blending Estimator for Policy Evaluation and Learning*](https://arxiv.org/pdf/1811.02672.pdf), Accepted at NeurIPS 2018 Workshop on Causal Learning and ICML 2019, 2019
 
+## Prediction
+
+To accurately predict COVID-19 related outcomes, such as for example death, and ICU admissions, together with colleagues at Cornell and Google, we developed a novel deep-learning architecture that improve predictions by using longitudinal X-rays.
+
+- Shu, M., Bowen, R. S., Herrmann, C., Qi, G., Santacatterina, M., & Zabih, R. (2021). [*Deep survival analysis with longitudinal X-rays for COVID-19*](https://arxiv.org/abs/2108.09641), ICCV21, 2021
+
+
 

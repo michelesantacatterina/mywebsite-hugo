@@ -36,3 +36,13 @@ The goal of this project is to understand the distribution, treatments and effec
 
 - To develop deep convolutional neural network survival methods to fully exploit medical images and time-dependent features to predict the probability of experiencing death, ICU admission, ICU discharge and hospital discharge. In collaboration with Weill Cornell and Columbia University. 
 
+Manuscripts:
+
+- Santacatterina, M., Sanders JW, Weintraub WS, and the North Carolina Covid-19 Community Research Partnership (2021). [*Prevention of Covid-19 with the BNT162b2 and mRNA-1273 Vaccines*](https://www.nejm.org/doi/10.1056/NEJMc2113575), The New England Journal of Medicine, 2021
+
+- Shu, M., Bowen, R. S., Herrmann, C., Qi, G., Santacatterina, M., & Zabih, R. (2021). [*Deep survival analysis with longitudinal X-rays for COVID-19*](https://arxiv.org/abs/2108.09641), ICCV21, 2021
+
+- The COVID-19 Community Research Partnership Study Group. [*Duration of SARS-CoV-2 sero-positivity in a large longitudinal sero-surveillance cohort: the COVID-19 Community Research Partnership*](https://arxiv.org/abs/2108.09641), BMC Infectious Diseases, 2021
+
+- Williamson, J.C., Wierzba, T.F., Santacatterina, M., et al.,  [*Analysis of Accumulated SARS-CoV-2 Seroconversion in North Carolina: The COVID-19 Community Research Partnership*](https://www.medrxiv.org/content/10.1101/2021.03.11.21253226v1.abstract), medRxiv, 2021
+

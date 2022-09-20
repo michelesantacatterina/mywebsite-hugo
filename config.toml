@@ -51,17 +51,18 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Michele Santacatterina"
-  role = "Assistant Research Professor"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "George Washington University", url = "https://biostatcenter.gwu.edu/" } ]
+  organizations = [ { name = "NYU Grossman School of Medicine", url = "https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "msanta@gwu.edu"
-  #email = "michele.santacatterina@gmail.com"
-  address = ""
+  #email = "msanta@gwu.edu"
+  email = "santam13@nyu.edu"
+  #email = "santam13@nyu.edu"
+  address = "180 Madison Avenue, 2nd Floor, 2-24, New York, NY 10016"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   skype = ""
@@ -93,10 +94,10 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 2
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "40.7474651"
+  longitude = "-73.9833739"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -218,7 +219,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:msanta@gwu.edu"
+    link = "mailto:michele.santacatterina@gmail.com"
 
   [[params.social]]
     icon = "linkedin"
@@ -260,8 +261,8 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Resume"
-  url = "https://drive.google.com/file/d/1JWgRM1O9wlgVu0omkozEsOe04aqPQR7e/view?usp=sharing"
+  name = "CV"
+  url = "https://drive.google.com/file/d/11Rb4j4J8zdv7ZebxHi8lxbxJIZva8v92/view?usp=sharing"
   weight = 2
 
   [[menu.main]]
