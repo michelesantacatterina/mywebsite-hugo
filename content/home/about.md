@@ -43,7 +43,7 @@ weight = 5
 
 # Biography
 
-I am an Assistant Professor of Biostatistics at the [Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/) at the [Department of Population Health](https://med.nyu.edu/departments-institutes/population-health/), [NYU Grossman School of Medicine](https://med.nyu.edu/). 
+I am an Assistant Professor of Biostatistics at the [Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/) at the [Department of Population Health](https://med.nyu.edu/departments-institutes/population-health/), [NYU Grossman School of Medicine](https://med.nyu.edu/). I am also a Visiting Researcher at Google, working with [Ramin Zabih](https://www.cs.cornell.edu/~rdz/).
 
 Previously, I was an Assistant Research Professor of Biostatistics at the [Biostatistics Center](https://biostatcenter.gwu.edu/) and the [Department of Biostatistics and Bioinformatics](https://publichealth.gwu.edu/departments/biostatistics-and-bioinformatics) at the [George Washington University School of Public Health](https://publichealth.gwu.edu/), and a postdoctoral associate at the [Cornell TRIPODS Center for Data Science](https://tripods.cis.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/) mentored by Dr. [Nathan Kallus](http://www.nathankallus.com/) and Prof. [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). 
 
