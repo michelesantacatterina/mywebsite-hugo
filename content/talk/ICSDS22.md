@@ -19,7 +19,7 @@ selected = false
 #projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = "/docs/ICSDS22.pdf"
+url_pdf = "/static/files/ICSDS22.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
