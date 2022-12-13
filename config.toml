@@ -262,7 +262,8 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "https://drive.google.com/file/d/11Rb4j4J8zdv7ZebxHi8lxbxJIZva8v92/view?usp=sharing"
+  #url = "https://drive.google.com/file/d/11Rb4j4J8zdv7ZebxHi8lxbxJIZva8v92/view?usp=sharing"
+  url = "/files/CV.pdf"
   weight = 2
 
   [[menu.main]]

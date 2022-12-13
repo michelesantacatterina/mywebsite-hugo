@@ -39,7 +39,7 @@ selected = true
 # Links (optional).
 #url_project = ""
 url_pdf = "https://arxiv.org/pdf/2010.07695.pdf"
-url_preprint = "/docs/ROW.pdf"
+url_preprint = "/files/ROW.pdf"
 url_code = "https://github.com/michelesantacatterina/ROW"
 url_dataset = "https://github.com/michelesantacatterina/ROW-time-to-event"
 url_slides = ""
