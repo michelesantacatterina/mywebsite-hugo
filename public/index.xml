@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>2022 IMS International Conference on Statistics and Data Science (ICSDS)</title>
+      <link>https://michelesantacatterina.github.io/talk/icsds22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/icsds22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimal Weighting for Estimating Generalized Average Treatment Effects</title>
       <link>https://michelesantacatterina.github.io/publication/gate/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
@@ -241,28 +250,6 @@
 &lt;ul&gt;
 &lt;li&gt;Chan, A., Santacatterina, M., et. al., &lt;em&gt;Does state malpractice environment affect outcomes following spinal fusions? A robust statistical and machine learning analysis of 549,775 discharges following spinal fusion surgery in the United States&lt;/em&gt;, Submitted to Journal of Neurosurgery: Neurosurgical Focus, 2020&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Understanding and predicting the risk of bleeding disorders</title>
-      <link>https://michelesantacatterina.github.io/project/bleed/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/project/bleed/</guid>
-      <description>&lt;p&gt;Bleeding disorders such as von Willebrand disease and hemophilia are conditions that occur when the blood cannot clot properly.&lt;/p&gt;
-
-&lt;p&gt;Because the clinical burden, societal impact and economic impact of mild and severe bleeding disorders are not as clearly understood, I will&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;apply novel biostatistical and machine learning methods to help understand and predict the risk of bleeding disorders,&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;apply novel causal inference methods to evaluate the effect of clinical interventions on the risk of bleeding disorders, and&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;learn if individualized treatment regimes are effective for personalized decision-making.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We are in the first stage of the project. I have been working on objective 1) by designing the study and applying state-of-the-art biostatistical and machine learning methods to predict risk of having a bleeding disorder as a function of patients’ characteristics. For instance, I was able to successfully and accurately predict that a young woman with specific characteristics will develop menstrual bleeding disorder.&lt;/p&gt;
 </description>
     </item>
     
