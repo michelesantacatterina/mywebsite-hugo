@@ -11,6 +11,74 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Stable estimation of survival causal effects</title>
+      <link>https://michelesantacatterina.github.io/publication/stable_surv/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/stable_surv/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;R&lt;/strong&gt; code is available here: &lt;a href=&#34;https://github.com/mdk31/causalbootstrap&#34; target=&#34;_blank&#34;&gt;https://github.com/mdk31/causalbootstrap&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SCH: Interpretable survival analysis of complex longitudinal data</title>
+      <link>https://michelesantacatterina.github.io/project/nsf-sch/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/project/nsf-sch/</guid>
+      <description>&lt;p&gt;Survival analysis is a statistical technique used to predict the time until specific events occur, such as hospitalization, mechanical part failure, or customer churn. Its applications in healthcare span across public health, clinical practice, and medical research. Clinicians face the challenge of integrating complex longitudinal data from various sources, including text, images, and lab values, collected at irregular intervals, to predict patient outcomes. Traditional survival analysis methods struggle with such data. This project aims to develop novel deep learning techniques, brain-inspired computer models to analyze complex data, tailored for this purpose. Importantly, these techniques will offer interpretability specific to the healthcare domain, bolstering users&amp;rsquo; confidence in the predictions. Building upon prior work that successfully utilized X-rays and lab values to predict events like intubation, death, and ICU admission/discharge, this project will benchmark the new methods against crucial clinical applications. This interdisciplinary proposal brings together researchers specializing in computer science, biostatistics and cardiology to significantly enhance models for survival analysis in a crucial healthcare context. The research will yield new prediction methods and model interpretations, demonstrated on open datasets that explore healthcare challenges. Moreover, the proposal includes support for educational outreach programs centered around survival analysis. The investigators will collaborate with existing Cornell Tech outreach initiatives, targeting women and underrepresented minorities through partnerships with the City University of New York (CUNY) and the New York City Department of Education. By combining expertise, this project aims to drive innovation in survival analysis and promote inclusivity in STEM education.&lt;/p&gt;
+
+&lt;p&gt;Addressing large-scale real-world healthcare challenges with survival analysis necessitates solving complex issues related to data representation and modeling. While classical survival analysis methods like the Cox model are well-established, they do not inherently provide solutions for effective learning from long-term, irregular, and multi-modal inputs, particularly when interpretability is required. The core concept of this project revolves around a unified deep learning model for survival analysis, constructed using a Transformer backbone designed to handle complex longitudinal data. The project focuses on four key aims essential to this domain: (1) providing a unified feature representation for multi-modal data, (2) handling long-term irregularly spaced input, (3) supporting customized model interpretability through collaboration with domain experts, leveraging their expertise as soft priors, and (4) integrating this feature representation with more advanced survival analysis methodologies. The evaluation of these methods will primarily utilize the publicly available MIMIC dataset, consisting of critical care patient records. Additionally, the project team collaborates with clinicians working on heart failure, providing an additional dataset for applied evaluation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NSF Award Number&lt;/strong&gt;:   2306556&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Start Date&lt;/strong&gt;: August 1, 2023&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;End Date&lt;/strong&gt;:   July 31, 2027 (Estimated)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Total Intended Award Amount&lt;/strong&gt;:    $1,168,412.00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;History of Investigator&lt;/strong&gt;:&lt;br /&gt;
+Michele Santacatterina (Principal Investigator)
+Yifan Peng (Co-Principal Investigator)
+Alexander Rush (Co-Principal Investigator)
+Jonathan Newman (Co-Principal Investigator)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminar Series, Center for Biostatistics, Mount Sinai</title>
+      <link>https://michelesantacatterina.github.io/talk/msinai23/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/msinai23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fast bootstrap algorithm for causal inference with large data</title>
+      <link>https://michelesantacatterina.github.io/publication/causalblb/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/causalblb/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;R&lt;/strong&gt; code is available here: &lt;a href=&#34;https://github.com/mdk31/causalbootstrap&#34; target=&#34;_blank&#34;&gt;https://github.com/mdk31/causalbootstrap&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust weights that optimally balance confounders for estimating marginal hazard ratios</title>
+      <link>https://michelesantacatterina.github.io/publication/row/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/row/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;R&lt;/strong&gt; package (with instructions on how to install the package and several examples) is available here: &lt;a href=&#34;https://github.com/michelesantacatterina/ROW&#34; target=&#34;_blank&#34;&gt;https://github.com/michelesantacatterina/ROW&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The code for the simulations and the case studies analyses is provided here:
+&lt;a href=&#34;https://github.com/michelesantacatterina/ROW-time-to-event&#34; target=&#34;_blank&#34;&gt;https://github.com/michelesantacatterina/ROW-time-to-event&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2022 IMS International Conference on Statistics and Data Science (ICSDS)</title>
       <link>https://michelesantacatterina.github.io/talk/icsds22/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 -0500</pubDate>
@@ -98,159 +166,6 @@
       
       <guid>https://michelesantacatterina.github.io/talk/jsm21/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>NYU Langone Health - Department of Population Health Seminar Series</title>
-      <link>https://michelesantacatterina.github.io/talk/dph/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/talk/dph/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust weights that optimally balance confounders for estimating the effect of binary and continuous treatments with time-to-event data</title>
-      <link>https://michelesantacatterina.github.io/publication/row/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/row/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;R&lt;/strong&gt; package (with instructions on how to install the package and several examples) is available here: &lt;a href=&#34;https://github.com/michelesantacatterina/ROW&#34; target=&#34;_blank&#34;&gt;https://github.com/michelesantacatterina/ROW&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The code for the simulations and the case studies analyses is provided here:
-&lt;a href=&#34;https://github.com/michelesantacatterina/ROW-time-to-event&#34; target=&#34;_blank&#34;&gt;https://github.com/michelesantacatterina/ROW-time-to-event&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>COVID-19: Prevention and treatment</title>
-      <link>https://michelesantacatterina.github.io/project/covid/</link>
-      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/project/covid/</guid>
-      <description>&lt;p&gt;COVID-19 is the most significant global health emergency in recent memory, with hundreds of thousands dead and widespread economic disruption.&lt;/p&gt;
-
-&lt;p&gt;The goal of this project is to understand the distribution, treatments and effects of COVID-19, particularly on underserved populations, ultimately improving public health. I am a co-investigator of two COVID-19 projects with the following aims:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;To develop and apply state-of-the-art statistical and machine learning techniques to better prevent and optimally treat the deadly disease. More info on the studies can be found &lt;a href=&#34;https://biostatcenter.gwu.edu/projects/covid-19crp&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://publichealth.gwu.edu/content/george-washington-university-biostatistics-center-launches-three-covid-19-projects&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;To develop deep convolutional neural network survival methods to fully exploit medical images and time-dependent features to predict the probability of experiencing death, ICU admission, ICU discharge and hospital discharge. In collaboration with Weill Cornell and Columbia University.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Manuscripts:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Santacatterina, M., Sanders JW, Weintraub WS, and the North Carolina Covid-19 Community Research Partnership (2021). &lt;a href=&#34;https://www.nejm.org/doi/10.1056/NEJMc2113575&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Prevention of Covid-19 with the BNT162b2 and mRNA-1273 Vaccines&lt;/em&gt;&lt;/a&gt;, The New England Journal of Medicine, 2021&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Shu, M., Bowen, R. S., Herrmann, C., Qi, G., Santacatterina, M., &amp;amp; Zabih, R. (2021). &lt;a href=&#34;https://arxiv.org/abs/2108.09641&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Deep survival analysis with longitudinal X-rays for COVID-19&lt;/em&gt;&lt;/a&gt;, ICCV21, 2021&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The COVID-19 Community Research Partnership Study Group. &lt;a href=&#34;https://arxiv.org/abs/2108.09641&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Duration of SARS-CoV-2 sero-positivity in a large longitudinal sero-surveillance cohort: the COVID-19 Community Research Partnership&lt;/em&gt;&lt;/a&gt;, BMC Infectious Diseases, 2021&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Williamson, J.C., Wierzba, T.F., Santacatterina, M., et al.,  &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2021.03.11.21253226v1.abstract&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Analysis of Accumulated SARS-CoV-2 Seroconversion in North Carolina: The COVID-19 Community Research Partnership&lt;/em&gt;&lt;/a&gt;, medRxiv, 2021&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Novel statistical methods for the optimal use of real-world patient data to improve clinical decision-making</title>
-      <link>https://michelesantacatterina.github.io/project/rw_methods/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/project/rw_methods/</guid>
-      <description>
-
-&lt;p&gt;Evidence-based medicine requires investigators to include the best available evidence into their clinical decision-making process. The best evidence regarding the causal effect of a treatment can be provided by properly conducted randomized trials. However, randomized trials, can be costly, infeasible, or unethical.&lt;/p&gt;
-
-&lt;p&gt;The goal of this project is to developed novel biostatistical methods that optimally leverage trials’ results and data from electronic medical registries which is more representative of real-world clinical practice.&lt;/p&gt;
-
-&lt;h2 id=&#34;optimally-estimating-treatment-effects-from-observational-data&#34;&gt;Optimally estimating treatment effects from observational data&lt;/h2&gt;
-
-&lt;h3 id=&#34;controlling-extreme-weights&#34;&gt;Controlling extreme weights&lt;/h3&gt;
-
-&lt;p&gt;Because traditional biostatistical methodologies to estimate the causal effect of a treatment using data from electronic medical registries, such as inverse probability weighting, may lead to erroneous results due to practical positivity violation (lack of overlap), I developed a novel biostatistical technique based on a constrained nonlinear optimization problem that provide optimal weights for inference with constrained precision. I found that the method proposed outperformed traditional biostatistical methodologies, such as truncated inverse probability weights, with respect to bias and mean squared error, and I applied it to evaluate the impact of CD4 cell count at treatment initiation among HIV infected patients.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Santacatterina, M., Bottai, M., &lt;a href=&#34;http://nbviewer.jupyter.org/github/michelesantacatterina/docs/blob/master/Optimal%20probability%20weights%20for%20inference%20with%20constrained%20precision.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Optimal probability weights for inference with constrained precision&lt;/em&gt;&lt;/a&gt;, JASA, 2018&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Santacatterina, M., et.al., &lt;a href=&#34;https://nbviewer.jupyter.org/github/michelesantacatterina/docs/blob/master/Optimal%20probability%20weights%20for%20MSCM%20rev.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Optimal probability weights for estimating causal effects of time-varying treatments with marginal structural Cox models&lt;/em&gt;&lt;/a&gt;, Statistics in Medicine, 2018&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;mitigating-model-misspecification-while-controlling-extreme-weights&#34;&gt;Mitigating model misspecification while controlling extreme weights&lt;/h3&gt;
-
-&lt;p&gt;To mitigate possible model misspecification while simultaneously controlling for precision, I worked on a method that find weights that directly maximize covariate balance. I found that the proposed methodology outperformed state-of-the-art techniques, and I applied it to evaluate the effect of a spine surgical intervention on patient-reported outcomes.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Kallus, N., Pennicooke, B., Santacatterina, M., &lt;a href=&#34;https://docs.google.com/viewer?url=https://github.com/michelesantacatterina/docs/raw/master/More%20robust%20estimation%20of%20SATE%20using%20KOM.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;More robust estimation of sample average treatment effects using Kernel Optimal Matching in an observational study of spine surgical interventions&lt;/em&gt;&lt;/a&gt;, Under review on Statistics in Medicine, 2019&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Kallus, N., Santacatterina, M., &lt;a href=&#34;https://arxiv.org/pdf/1908.04748.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Optimal Estimation of Generalized Average Treatment Effects via Kernel Optimal Matching&lt;/em&gt;&lt;/a&gt;, 2019&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I extendend the proposed methodology to control for time-dependent confounders, which are confounders that are affected by previous treatments and impacts future ones.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kallus, N., Santacatterina, M., &lt;a href=&#34;https://docs.google.com/viewer?url=https://github.com/michelesantacatterina/docs/raw/master/Optimal%20balancing%20of%20time-dependent%20confounders%20for%20MSM.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Optimal balancing of time-dependent confounders for marginal structural models&lt;/em&gt;&lt;/a&gt;, 2019&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I extended the proposed methodology to optimally to balance confounders to estimate causal effects of continuous treatments.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kallus, N., Santacatterina, M., &lt;a href=&#34;https://arxiv.org/pdf/1910.11972&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Kernel Optimal Orthogonality Weighting: A Balancing Approach to Estimating Effects of Continuous Treatment&lt;/em&gt;&lt;/a&gt;, Work in progress, 2019&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I proposed a new robust weights that balance confounders for both binary and continuous treatments with time-to-event-data. I applied the proposed weights on the evaluation of the effect of hormone therapy on time to coronary heart disease and on the effect of red meat consumption on time to colon cancer among 24,069 postmenopausal women enrolled in the Women’s Health Initiative observational study.&lt;/p&gt;
-
-&lt;p&gt;Santacatterina, M., &lt;a href=&#34;https://docs.google.com/viewer?url=https://arxiv.org/pdf/2010.07695.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Robust weights that optimally balance confounders for estimating the effect of binary and continuous treatments with time-to-event data&lt;/em&gt;&lt;/a&gt;, 2020&lt;/p&gt;
-
-&lt;h2 id=&#34;generalizing-trials-results&#34;&gt;Generalizing trials&amp;rsquo; results&lt;/h2&gt;
-
-&lt;p&gt;Because trial participants may not be representative of the real-world population, I developed a biostatistical methodology that provide robust weights to generalize trials’ results to target populations. I found that the method outperformed traditional state-of-the-art methods and I applied it to generalize the effect of peer support on viral failure among HIV infected patients from Vietnam to the United States.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kallus, N., Santacatterina, M., &lt;a href=&#34;https://arxiv.org/pdf/1908.04748.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Optimal Estimation of Generalized Average Treatment Effects via Kernel Optimal Matching&lt;/em&gt;&lt;/a&gt;, 2019&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;precision-medicine&#34;&gt;Precision medicine&lt;/h2&gt;
-
-&lt;p&gt;To evaluate and learn optimal individualized treatment regimes, I proposed the used of a doubly robust estimator and present a method that optimally combines weighted and outcome modeling techniques. I found that the proposed methodology performs well in terms of mean square error and bias.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Su, Y., Wang, L., Santacatterina, M., Thorsten, J., &lt;a href=&#34;https://arxiv.org/pdf/1811.02672.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;CAB: Continuous Adaptive Blending Estimator for Policy Evaluation and Learning&lt;/em&gt;&lt;/a&gt;, Accepted at NeurIPS 2018 Workshop on Causal Learning and ICML 2019, 2019&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;prediction&#34;&gt;Prediction&lt;/h2&gt;
-
-&lt;p&gt;To accurately predict COVID-19 related outcomes, such as for example death, and ICU admissions, together with colleagues at Cornell and Google, we developed a novel deep-learning architecture that improve predictions by using longitudinal X-rays.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Shu, M., Bowen, R. S., Herrmann, C., Qi, G., Santacatterina, M., &amp;amp; Zabih, R. (2021). &lt;a href=&#34;https://arxiv.org/abs/2108.09641&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Deep survival analysis with longitudinal X-rays for COVID-19&lt;/em&gt;&lt;/a&gt;, ICCV21, 2021&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Optimal care for patients undergoing surgical interventions</title>
-      <link>https://michelesantacatterina.github.io/project/spine/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/project/spine/</guid>
-      <description>&lt;p&gt;Back pain is one of the most common causes of work loss due to disability, posing an economic burden on society in the United States. Understanding what are the patient features that are highly predictive for patient-reported outcomes, is essential to help to provide the best cares for patients and more cost-effective interventions.&lt;/p&gt;
-
-&lt;p&gt;The goal of this project is to provide best practices for treatment care and management of patients who underwent surgical interventions.&lt;/p&gt;
-
-&lt;p&gt;To identify clinical features and patient-reported outcomes among patients undergoing spine surgeries, I have designed a retrospective cohort study and analyzed it by using a multivariable logistic regression model to evaluate the effect of age, fusion levels and their interactions on patient-reported outcomes. I found that age affects the discharge destination after a one- or multi-level fusion and intraoperative/postoperative blood transfusion after a one-level fusion.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Pennicooke, B., Santacatterina, M., et.al., &lt;em&gt;The effect of age, fusion levels and their interactions on unfavorable outcomes and complications: A Retrospective Study of 60,000 patients.&lt;/em&gt; (Submitted to Clinical Spine Surgery), 2020&lt;/li&gt;
-&lt;li&gt;Pennicooke, B., Santacatterina, M., et.al., &lt;em&gt;Machine Learning Algorithm for Prediction of Patient-Reported Outcomes with Age- Adjusted Modeling in Patients with Grade 1 Spondylolisthesis&lt;/em&gt; (Work in progress), 2020&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Because spine surgery is especially susceptible to malpractice claims, which drives up medical costs, I designed a study and analyzed the relationship of malpractice claims on outcomes following spine surgical interventions, using a inverse-probability-weighted regression-adjustment estimator. I also applied gradient boosting classifiers and regressor to predict the outcomes as function of the patients’ characteristics. I found that malpractice claims were associated with an increased odds of non-home discharge, longer LOS, and higher total charges.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Chan, A., Santacatterina, M., et. al., &lt;em&gt;Does state malpractice environment affect outcomes following spinal fusions? A robust statistical and machine learning analysis of 549,775 discharges following spinal fusion surgery in the United States&lt;/em&gt;, Submitted to Journal of Neurosurgery: Neurosurgical Focus, 2020&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>

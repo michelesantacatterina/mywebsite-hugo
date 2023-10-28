@@ -11,22 +11,24 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 40
 
 +++
 
-Fall 2022:
+NYU:
 
-- Statistical Learning; PhD-level class; ([link to brightspace](link to https://brightspace.nyu.edu/d2l/home/223613))
+- [EHSCGA 2341 - Statistical Learning](https://www.coursicle.com/nyu/courses/EHSCGA/2341/); PhD-level class; Fall 2022
 
-Spring 2023:
+- [EHSCGA 2342 - Statistical Inference II](https://www.coursicle.com/nyu/courses/EHSCGA/2342/); PhD-level class; Spring 2023; Spring 2024
 
-- Statistical Inference; PhD-level class; Details TBD
+- [EHSCGA 2337 - Modern Causal Inference Methods](https://www.coursicle.com/nyu/courses/EHSCGA/2337/); PhD-level class; Fall 2023
 
-I have been a teaching assistant for the following courses for the Doctoral Program in Epidemiology and the Research School for Clinical Epidemiology at Karolinska Institutet:
+External to NYU:
 
-- BIO1: Biostatistics I - Introduction for epidemiologists
-- BIO2: Biostatistics II - Logistic regression for epidemiologists
+- 03/2023 —[ Applied Causal Inference for Real-World Observational Studies](https://www.enar.org/meetings/spring2023/profdev/short_courses.cfm), half-day course, Course Director, ENAR
+- 06/2023 — [Causal Inference in Epidemiology](https://www.biostatepi.org/), week-long course, Course Director, Summer School on Modern Methods in Biostatistics and Epidemiology
+- 03/2024 — [Applied Causal Inference for Real-World Observational Studies](https://catalyst.harvard.edu/courses/), 1-day course, Course Director, Harvard Catalyst 
+
 
 
 

@@ -1,6 +1,6 @@
 +++
-title = "Robust weights that optimally balance confounders for estimating the effect of binary and continuous treatments with time-to-event data"
-date = "2020-10-15"
+title = "Robust weights that optimally balance confounders for estimating marginal hazard ratios"
+date = "2023-01-12"
 
 # Authors. Comma separated list, e.g. `["Michele Santacatterina"]`.
 authors = ["M Santacatterina"]
@@ -17,11 +17,11 @@ authors = ["M Santacatterina"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
-publication_short = "*Submitted*"
+publication = "Statistical Methods in Medical Research"
+publication_short = "*SMMR*"
 
 # Abstract and optional shortened version.
-abstract = "Covariate balance is crucial in obtaining unbiased estimates of treatment effects in observational studies. Methods based on Inverse Probability Weights (IPW) have been widely used to estimate treatment effects with observational data. Machine learning techniques have been proposed to estimate propensity scores. These techniques however target accuracy instead of covariate balance. Methods that target covariate balance have been successfully proposed and largely applied to estimate treatment effects on continuous outcomes. However, in many medical and epidemiological applications, the interest lies in estimating treatment effects on time-to-an-event outcomes. In this paper, we start by presenting robust orthogonality weights (ROW), a set of weights obtained by solving a quadratic constrained optimization problem that maximizes precision while constraining covariate balance defined as the sample correlation between confounders and treatment. By doing so, ROW optimally deal with both binary and continuous treatments. We then evaluate the performance of the proposed weights in estimating hazard ratios of binary and continuous treatments with time-to-event outcomes in a simulation study. We finally apply ROW on the evaluation of the effect of hormone therapy on time to coronary heart disease and on the effect of red meat consumption on time to colon cancer among 24,069 postmenopausal women enrolled in the Women's Health Initiative observational study."
+abstract = "Covariate balance is crucial in obtaining unbiased estimates of treatment effects in observational studies. Methods that target covariate balance have been successfully proposed and largely applied to estimate treatment effects on continuous outcomes. However, in many medical and epidemiological applications, the interest lies in estimating treatment effects on time-to-event outcomes. With this type of data, one of the most common estimands of interest is the marginal hazard ratio of the Cox proportional hazards model. In this article, we start by presenting robust orthogonality weights, a set of weights obtained by solving a quadratic constrained optimization problem that maximizes precision while constraining covariate balance defined as the correlation between confounders and treatment. By doing so, robust orthogonality weights optimally deal with both binary and continuous treatments. We then evaluate the performance of the proposed weights in estimating marginal hazard ratios of binary and continuous treatments with time-to-event outcomes in a simulation study. We finally apply robust orthogonality weights in the evaluation of the effect of hormone therapy on time to coronary heart disease and on the effect of red meat consumption on time to colon cancer among 24,069 postmenopausal women enrolled in the Women’s Health Initiative observational study."
 
 
 
@@ -38,8 +38,8 @@ selected = true
 
 # Links (optional).
 #url_project = ""
-url_pdf = "https://arxiv.org/pdf/2010.07695.pdf"
-url_preprint = "/files/ROW.pdf"
+url_pdf = "https://journals.sagepub.com/doi/abs/10.1177/09622802221146310"
+url_preprint = ""
 url_code = "https://github.com/michelesantacatterina/ROW"
 url_dataset = "https://github.com/michelesantacatterina/ROW-time-to-event"
 url_slides = ""

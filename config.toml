@@ -60,11 +60,11 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "NYU Grossman School of Medicine", url = "https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   #email = "msanta@gwu.edu"
   email = "santam13@nyu.edu"
   #email = "santam13@nyu.edu"
-  address = "180 Madison Avenue, 2nd Floor, 2-24, New York, NY 10016"
+  address = "180 Madison Avenue, 2nd Floor, 2-51, New York, NY 10016"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   skype = ""
@@ -256,22 +256,29 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "#about"
   weight = 1
+ 
+  
+ [[menu.main]]
+  name = "CV"
+  #url = "https://drive.google.com/file/d/11Rb4j4J8zdv7ZebxHi8lxbxJIZva8v92/view?usp=sharing"
+  url = "/files/cv_oct23.pdf"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Research Group"
+  url = "#students"
+  weight = 3
 
 [[menu.main]]
   name = "Selected Publications"
   url = "#publications_selected"
-  weight = 3
+  weight = 4
 
-[[menu.main]]
-  name = "CV"
-  #url = "https://drive.google.com/file/d/11Rb4j4J8zdv7ZebxHi8lxbxJIZva8v92/view?usp=sharing"
-  url = "/files/CV.pdf"
-  weight = 2
 
   [[menu.main]]
     name = "Papers in Preparation"
     url = "#publications"
-    weight = 4
+    weight = 5
 
 #[[menu.main]]
 #  name = "Posts"
@@ -279,24 +286,24 @@ defaultContentLanguageInSubdir = false
 #  weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+  name = "Grants"
+  url = "#grants"
+  weight = 6
 
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 4
+  weight = 8
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 9
 
 # Taxonomies.
 [taxonomies]

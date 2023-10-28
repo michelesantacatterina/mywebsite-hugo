@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://michelesantacatterina.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Robust weights that optimally balance confounders for estimating marginal hazard ratios</title>
+      <link>https://michelesantacatterina.github.io/publication/row/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/row/</guid>
+      <description>The R package (with instructions on how to install the package and several examples) is available here: https://github.com/michelesantacatterina/ROW
+The code for the simulations and the case studies analyses is provided here: https://github.com/michelesantacatterina/ROW-time-to-event</description>
+    </item>
     
     <item>
       <title>Optimal Weighting for Estimating Generalized Average Treatment Effects</title>
@@ -55,16 +65,6 @@
       
       <guid>https://michelesantacatterina.github.io/publication/kom-sate/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Robust weights that optimally balance confounders for estimating the effect of binary and continuous treatments with time-to-event data</title>
-      <link>https://michelesantacatterina.github.io/publication/row/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/row/</guid>
-      <description>The R package (with instructions on how to install the package and several examples) is available here: https://github.com/michelesantacatterina/ROW
-The code for the simulations and the case studies analyses is provided here: https://github.com/michelesantacatterina/ROW-time-to-event</description>
     </item>
     
     <item>

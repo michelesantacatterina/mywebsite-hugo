@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://michelesantacatterina.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stable estimation of survival causal effects</title>
+      <link>https://michelesantacatterina.github.io/publication/stable_surv/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/stable_surv/</guid>
+      <description>The R code is available here: https://github.com/mdk31/causalbootstrap</description>
+    </item>
+    
+    <item>
+      <title>A fast bootstrap algorithm for causal inference with large data</title>
+      <link>https://michelesantacatterina.github.io/publication/causalblb/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/causalblb/</guid>
+      <description>The R code is available here: https://github.com/mdk31/causalbootstrap</description>
+    </item>
     
     <item>
       <title>Conditional life expectancy estimation by ordered fractions of population with censored data</title>

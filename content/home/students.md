@@ -4,21 +4,21 @@ widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Projects"
+title = "Research group"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 10
 
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "group"
 
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+view = 0
 
 # Filter toolbar.
 
@@ -31,3 +31,8 @@ filter_default = 0
 
 
 +++
+
+Current:
+
+- [Axel Martin](https://github.com/AxelitoMartin) (co-advised with [Ivan Diaz](https://www.idiaz.xyz/))
+- Antonio D'Alessandro (co-advised with [Samrachana Adhikari](https://samrachana.com/))
