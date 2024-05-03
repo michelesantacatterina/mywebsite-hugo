@@ -11,13 +11,30 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Identification and estimation of causal effects using non-concurrent controls in platform trials</title>
+      <link>https://michelesantacatterina.github.io/publication/nonconc/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/nonconc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mambamixer: Efficient selective state space models with dual token and channel selection</title>
+      <link>https://michelesantacatterina.github.io/publication/mamba/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/mamba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stable estimation of survival causal effects</title>
       <link>https://michelesantacatterina.github.io/publication/stable_surv/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/stable_surv/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;R&lt;/strong&gt; code is available here: &lt;a href=&#34;https://github.com/mdk31/causalbootstrap&#34; target=&#34;_blank&#34;&gt;https://github.com/mdk31/causalbootstrap&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -147,24 +164,6 @@ Jonathan Newman (Co-Principal Investigator)&lt;/p&gt;
       <pubDate>Tue, 01 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/gwusse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Harvard - Machine Learning and Causal Inference Reading group</title>
-      <link>https://michelesantacatterina.github.io/talk/harvard-mlci/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/talk/harvard-mlci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JSM 21</title>
-      <link>https://michelesantacatterina.github.io/talk/jsm21/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/talk/jsm21/</guid>
       <description></description>
     </item>
     

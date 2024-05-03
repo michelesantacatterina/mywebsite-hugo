@@ -29,7 +29,7 @@ abstract = "We study the problem of estimating survival causal effects, where th
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -65,7 +65,5 @@ image = ""
 caption = ""
 
 +++
-
-The **R** code is available here: https://github.com/mdk31/causalbootstrap
 
 

@@ -13,12 +13,30 @@
     
     
     <item>
+      <title>Identification and estimation of causal effects using non-concurrent controls in platform trials</title>
+      <link>https://michelesantacatterina.github.io/publication/nonconc/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/nonconc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mambamixer: Efficient selective state space models with dual token and channel selection</title>
+      <link>https://michelesantacatterina.github.io/publication/mamba/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/mamba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stable estimation of survival causal effects</title>
       <link>https://michelesantacatterina.github.io/publication/stable_surv/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/stable_surv/</guid>
-      <description>The R code is available here: https://github.com/mdk31/causalbootstrap</description>
+      <description></description>
     </item>
     
     <item>
