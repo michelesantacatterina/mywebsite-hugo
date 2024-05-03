@@ -34,5 +34,5 @@ filter_default = 0
 
 Current:
 
-- [Axel Martin](https://github.com/AxelitoMartin) (co-advised with [Ivan Diaz](https://www.idiaz.xyz/))
+- [Axel Martin](https://axelmartin.netlify.app/) (co-advised with [Ivan Diaz](https://www.idiaz.xyz/))
 - Antonio D'Alessandro (co-advised with [Samrachana Adhikari](https://samrachana.com/))
