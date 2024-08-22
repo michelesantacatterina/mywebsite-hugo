@@ -13,10 +13,29 @@
     <item>
       <title>Identification and estimation of causal effects using non-concurrent controls in platform trials</title>
       <link>https://michelesantacatterina.github.io/publication/nonconc/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/nonconc/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models</title>
+      <link>https://michelesantacatterina.github.io/publication/chimera/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/chimera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fast bootstrap algorithm for causal inference with large data</title>
+      <link>https://michelesantacatterina.github.io/publication/causalblb/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/causalblb/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;R&lt;/strong&gt; code is available here: &lt;a href=&#34;https://github.com/mdk31/causalbootstrap&#34; target=&#34;_blank&#34;&gt;https://github.com/mdk31/causalbootstrap&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -70,16 +89,6 @@ Jonathan Newman (Co-Principal Investigator)&lt;/p&gt;
       
       <guid>https://michelesantacatterina.github.io/talk/msinai23/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>A fast bootstrap algorithm for causal inference with large data</title>
-      <link>https://michelesantacatterina.github.io/publication/causalblb/</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/causalblb/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;R&lt;/strong&gt; code is available here: &lt;a href=&#34;https://github.com/mdk31/causalbootstrap&#34; target=&#34;_blank&#34;&gt;https://github.com/mdk31/causalbootstrap&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -155,15 +164,6 @@ Jonathan Newman (Co-Principal Investigator)&lt;/p&gt;
       <pubDate>Tue, 01 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/enar21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GWU - Statistics Seminar Series</title>
-      <link>https://michelesantacatterina.github.io/talk/gwusse/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/talk/gwusse/</guid>
       <description></description>
     </item>
     

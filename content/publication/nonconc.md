@@ -1,6 +1,6 @@
 +++
 title = "Identification and estimation of causal effects using non-concurrent controls in platform trials"
-date = "2024-05-01"
+date = "2024-07-17"
 
 # Authors. Comma separated list, e.g. `["Michele Santacatterina"]`.
 authors = ["M Santacatterina, F Macchiavelli Giron, X Zhang, I Diaz"]
@@ -17,8 +17,8 @@ authors = ["M Santacatterina, F Macchiavelli Giron, X Zhang, I Diaz"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Work in progress"
-publication_short = "Work in progress"
+publication = "Under Review"
+publication_short = "Under Review"
 
 # Abstract and optional shortened version.
 abstract = "Platform trials are multi-arm designs that simultaneously evaluate multiple treatments for a single disease within the same overall trial structure. Unlike traditional randomized controlled trials, they allow treatment arms to enter and exit the trial at distinct times while maintaining a control arm throughout. This control arm comprises both concurrent controls, where participants are randomized concurrently to either the treatment or control arm, and non-concurrent controls, who enter the trial when the treatment arm under study is unavailable. While flexible, platform trials introduce a unique challenge with the use of non-concurrent controls, raising questions about how to efficiently utilize their data to estimate treatment effects. Specifically, what estimands should be used to evaluate the causal effect of a treatment versus control? Under what assumptions can these estimands be identified and estimated? Do we achieve any efficiency gains? In this paper, we use structural causal models and counterfactuals to clarify estimands and formalize their identification in the presence of non-concurrent controls in platform trials. We also provide outcome regression, inverse probability weighting, and doubly robust estimators for their estimation. We discuss efficiency gains, demonstrate their performance in a simulation study, and apply them to the ACTT platform trial, resulting in a 20% improvement in precision."
@@ -50,7 +50,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/1806.01083"}]
-url_custom = [{name = "arXiv", url = "https://arxiv.org/pdf/2403.19888"}]
+url_custom = [{name = "arXiv", url = "https://arxiv.org/pdf/2404.19118"}]
 
 # Does the content use math formatting?
 math = false

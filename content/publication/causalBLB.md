@@ -1,6 +1,6 @@
 +++
 title = "A fast bootstrap algorithm for causal inference with large data"
-date = "2023-02-06"
+date = "2024-05-13"
 
 # Authors. Comma separated list, e.g. `["Michele Santacatterina"]`.
 authors = ["M Kosko, L Wang, M Santacatterina"]
@@ -17,8 +17,8 @@ authors = ["M Kosko, L Wang, M Santacatterina"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Work in progress"
-publication_short = "Work in progress"
+publication = "Statistics in Medicine"
+publication_short = "Statistics in Medicine"
 
 # Abstract and optional shortened version.
 abstract = "Estimating causal effects from large experimental and observational data has become increasingly prevalent in both industry and research. The bootstrap is an intuitive and powerful technique used to construct standard errors and confidence intervals of estimators. Its application however can be prohibitively demanding in settings involving large data. In addition, modern causal inference estimators based on machine learning and optimization techniques exacerbate the computational burden of the bootstrap. The bag of little bootstraps has been proposed in non-causal settings for large data but has not yet been applied to evaluate the properties of estimators of causal effects. In this paper, we introduce a new bootstrap algorithm called causal bag of little bootstraps for causal inference with large data. The new algorithm significantly improves the computational efficiency of the traditional bootstrap while providing consistent estimates and desirable confidence interval coverage. We describe its properties, provide practical considerations, and evaluate the performance of the proposed algorithm in terms of bias, coverage of the true 95% confidence intervals, and computational time in a simulation study. We apply it in the evaluation of the effect of hormone therapy on the average time to coronary heart disease using a large observational data set from the Women's Health Initiative."
@@ -39,8 +39,8 @@ selected = true
 
 # Links (optional).
 #url_project = ""
-url_pdf = ""
-url_preprint = ""
+url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.10075"
+url_preprint = "https://arxiv.org/pdf/2302.02859"
 url_code = "https://github.com/mdk31/causalbootstrap"
 url_dataset = ""
 url_slides = ""
@@ -51,7 +51,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/1806.01083"}]
-url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/2302.02859"}]
+url_custom = [{name = "arXiv", url = "https://arxiv.org/pdf/2302.02859"}]
 
 # Does the content use math formatting?
 math = false
