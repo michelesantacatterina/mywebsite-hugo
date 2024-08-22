@@ -266,20 +266,20 @@ defaultContentLanguageInSubdir = false
   weight = 2
   
   [[menu.main]]
-  name = "Research Group"
+  name = "Research group"
   url = "#students"
   weight = 3
 
 [[menu.main]]
-  name = "Selected Publications"
+  name = "Selected manuscripts"
   url = "#publications_selected"
   weight = 4
 
 
-  [[menu.main]]
-    name = "Papers in Preparation"
-    url = "#publications"
-    weight = 5
+  #  [[menu.main]]
+  #  name = "Papers in Preparation"
+  #  url = "#publications"
+  #  weight = 5
 
 #[[menu.main]]
 #  name = "Posts"
@@ -291,10 +291,10 @@ defaultContentLanguageInSubdir = false
   url = "#grants"
   weight = 6
 
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 8
+ #[[menu.main]]
+ # name = "Talks"
+ # url = "#talks"
+ # weight = 8
 
 [[menu.main]]
   name = "Teaching"
@@ -305,6 +305,12 @@ defaultContentLanguageInSubdir = false
   name = "Contact"
   url = "#contact"
   weight = 9
+  
+[[menu.main]]
+  name = "Other insterests"
+  url = "#hobbies"
+  weight = 10  
+  
 
 # Taxonomies.
 [taxonomies]

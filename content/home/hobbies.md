@@ -15,7 +15,7 @@ weight = 70
 
 +++
 
-When I am not reading about biostatistics and data science, I like to learn more about contemporary history. I also enjoy keeping myself active by playing sports and going to the gym.  I love to play and listen to music, especially electronic and film music. During the past few years I started several electronic music projects that included production using [Ableton Live](https://www.ableton.com/en/live/). Last but not least, I love to play, cuddle and spoil my fluffy dog [*Mister Pom Princess ``PK'' Cake*](https://www.instagram.com/pk_the_pom/). 
+When I am not reading about biostatistics and data science, I like to learn more about contemporary history. I also enjoy keeping myself active by running. I love to play and listen to music, especially electronic and film music. Over the past few years, I have started several electronic music projects that involve production using [Ableton Live](https://www.ableton.com/en/live/). Last but not least, I love to play, cuddle and spoil my fluffy dog [*Mister Pom Princess ``PK'' Cake*](https://www.instagram.com/pk_the_pom/). 
 
 
 <img src="/img/pk_pom_flower.jpeg" alt="Princess Cake" width="200"/>

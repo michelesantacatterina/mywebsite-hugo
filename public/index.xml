@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Talks &amp; Posters</title>
+      <link>https://michelesantacatterina.github.io/old-home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/old-home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Identification and estimation of causal effects using non-concurrent controls in platform trials</title>
       <link>https://michelesantacatterina.github.io/publication/nonconc/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
@@ -155,15 +164,6 @@ Jonathan Newman (Co-Principal Investigator)&lt;/p&gt;
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/kom-sate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ENAR 21</title>
-      <link>https://michelesantacatterina.github.io/talk/enar21/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/talk/enar21/</guid>
       <description></description>
     </item>
     
