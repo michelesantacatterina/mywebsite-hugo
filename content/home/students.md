@@ -32,7 +32,8 @@ filter_default = 0
 
 +++
 
-Current:
+Current PhDs:
 
 - [Axel Martin](https://axelmartin.netlify.app/) (co-advised with [Ivan Diaz](https://www.idiaz.xyz/))
 - Antonio D'Alessandro (co-advised with [Samrachana Adhikari](https://samrachana.com/))
+- Xinyi "Emily" Zhang (co-advised with [Wenbo Wu](https://www.wenbowu.me/))
