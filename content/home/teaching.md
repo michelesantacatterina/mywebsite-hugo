@@ -19,7 +19,7 @@ NYU:
 
 - [EHSCGA 2341 - Statistical Learning](https://www.coursicle.com/nyu/courses/EHSCGA/2341/); PhD-level class; Fall 2022
 
-- [EHSCGA 2342 - Statistical Inference II](https://www.coursicle.com/nyu/courses/EHSCGA/2342/); PhD-level class; Spring 2023; Spring 2024
+- [EHSCGA 2342 - Statistical Inference II](https://www.coursicle.com/nyu/courses/EHSCGA/2342/); PhD-level class; Spring 2023-2025
 
 - [EHSCGA 2337 - Modern Causal Inference Methods](https://www.coursicle.com/nyu/courses/EHSCGA/2337/); PhD-level class; Fall 2023
 
