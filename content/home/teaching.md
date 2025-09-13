@@ -19,15 +19,19 @@ NYU:
 
 - [EHSCGA 2341 - Statistical Learning](https://www.coursicle.com/nyu/courses/EHSCGA/2341/); PhD-level class; Fall 2022
 
-- [EHSCGA 2342 - Statistical Inference II](https://www.coursicle.com/nyu/courses/EHSCGA/2342/); PhD-level class; Spring 2023-2025
+- [EHSCGA 2342 - Statistical Inference II](https://www.coursicle.com/nyu/courses/EHSCGA/2342/); PhD-level class; Spring 2023-2026
 
-- [EHSCGA 2337 - Modern Causal Inference Methods](https://www.coursicle.com/nyu/courses/EHSCGA/2337/); PhD-level class; Fall 2023
+- [EHSCGA 2337 - Modern Methods for Causal Inference](https://www.coursicle.com/nyu/courses/EHSCGA/2337/); PhD-level class; Fall 2023, Fall 2025
 
 External to NYU:
 
-- 03/2023 —[ Applied Causal Inference for Real-World Observational Studies](https://www.enar.org/meetings/spring2023/profdev/short_courses.cfm), half-day course, Course Director, ENAR
-- 06/2023 — [Causal Inference in Epidemiology](https://www.biostatepi.org/), week-long course, Course Director, Summer School on Modern Methods in Biostatistics and Epidemiology
+- 06/2025 — [Causal Inference in Epidemiology](https://www.biostatepi.org/), week-long course, Course Director, Summer School on Modern Methods in Biostatistics and Epidemiology
 - 03/2024 — [Applied Causal Inference for Real-World Observational Studies](https://catalyst.harvard.edu/courses/), 1-day course, Course Director, Harvard Catalyst 
+- 06/2023 — [Causal Inference in Epidemiology](https://www.biostatepi.org/), week-long course, Course Director, Summer School on Modern Methods in Biostatistics and Epidemiology
+- 03/2023 —[ Applied Causal Inference for Real-World Observational Studies](https://www.enar.org/meetings/spring2023/profdev/short_courses.cfm), half-day course, Course Director, ENAR
+
+
+
 
 
 

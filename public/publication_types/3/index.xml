@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://michelesantacatterina.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modern causal inference approaches to improve power for subgroup analysis in randomized controlled trials</title>
+      <link>https://michelesantacatterina.github.io/publication/subgroup/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/subgroup/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Non-parametric efficient estimation of marginal structural models with multi-valued time-varying treatments</title>
@@ -18,15 +27,6 @@
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/npmsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification and estimation of causal effects using non-concurrent controls in platform trials</title>
-      <link>https://michelesantacatterina.github.io/publication/nonconc/</link>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/nonconc/</guid>
       <description></description>
     </item>
     

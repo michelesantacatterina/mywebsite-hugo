@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://michelesantacatterina.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SCH: A structural causal framework for adaptive experiments</title>
+      <link>https://michelesantacatterina.github.io/project/nih-r01/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/project/nih-r01/</guid>
+      <description>Adaptive randomized clinical trials are critical in infectious disease research, offering flexibility to adjust sample sizes, introduce new interventions, discontinue ineffective treatments, and target specific subgroups to enhance treatment efficacy. This adaptability is particularly valuable in rapidly evolving public health crises, such as the development of treatments for emerging infectious diseases like COVID-19. However, adaptive trials present significant challenges, including unclear inferential targets, statistical biases from temporal and spatial variability, complexities in handling dynamic data structures, and an increased risk of false-positive findings.</description>
+    </item>
     
     <item>
       <title>SCH: Interpretable survival analysis of complex longitudinal data</title>

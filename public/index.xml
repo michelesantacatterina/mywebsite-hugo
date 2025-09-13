@@ -20,20 +20,53 @@
     </item>
     
     <item>
-      <title>Non-parametric efficient estimation of marginal structural models with multi-valued time-varying treatments</title>
-      <link>https://michelesantacatterina.github.io/publication/npmsm/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <title>SCH: A structural causal framework for adaptive experiments</title>
+      <link>https://michelesantacatterina.github.io/project/nih-r01/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://michelesantacatterina.github.io/publication/npmsm/</guid>
+      <guid>https://michelesantacatterina.github.io/project/nih-r01/</guid>
+      <description>&lt;p&gt;Adaptive randomized clinical trials are critical in infectious disease research, offering flexibility to adjust sample sizes, introduce new interventions, discontinue ineffective treatments, and target specific subgroups to enhance treatment efficacy. This adaptability is particularly valuable in rapidly evolving public health crises, such as the development of treatments for emerging infectious diseases like COVID-19. However, adaptive trials present significant challenges, including unclear inferential targets, statistical biases from temporal and spatial variability, complexities in handling dynamic data structures, and an increased risk of false-positive findings. These concerns are reflected in recent FDA guidance on estimands, which emphasizes the need for clearly defined inferential targets, and on adaptive designs, which acknowledges that statistical bias in adaptive trials remains an understudied issue. Despite these recognized challenges, current research lacks a principled framework for structurally representing and unbiasedly estimating causal effects in adaptive trials. This project will develop a structural causal framework for adaptive trials, leveraging modern causal inference and statistical techniques alongside secondary data from the Adaptive COVID-19 Treatment Trial (ACTT)—an adaptive trial evaluating novel therapeutics in hospitalized COVID-19 patients—to enable transparent, efficient, and statistically unbiased estimation of causal effects. To achieve this, we propose the following specific aims: Aim 1: Develop a structural causal approach that deals with temporal variability. Aim 2: Extend our framework to handle spatial variability. Aim 3: Expand our framework to handle complex data structures, including failure-time and missing data, while dealing with false-positive results. Our project aligns with NIAID’s mission by advancing key methodologies for infectious disease clinical trials, particularly in adaptive designs for pandemic response, emerging pathogens, and the development of antiviral treatments. While our primary focus is on infectious disease trials, our methods have broader applicability to other disease areas, such as schizophrenia. We show this by also leveraging secondary data from schizophrenia studies, including the DECIFER trial, the RAISE study, and the EPINET study. RELEVANCE (See instructions): This research aims to improve how adaptive clinical trials are designed and analyzed. By developing methods that address key challenges in adaptive trials, our work will help ensure more accurate and reliable results, ultimately leading to better treatments and public health responses to emerging infectious diseases.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NSF Award Number&lt;/strong&gt;:   1R01AI197146-01&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Start Date&lt;/strong&gt;: August 6, 2025&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;End Date&lt;/strong&gt;:   July 31, 2029 (Estimated)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Total Intended Award Amount&lt;/strong&gt;:    $1,197,688.00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;History of Investigator&lt;/strong&gt;:&lt;br /&gt;
+Michele Santacatterina (Principal Investigator, Contact)
+Ivan Diaz (co-Principal Investigator)
+Andrea Troxel (co-Investigator)
+Donald Goff (co-Investigator)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modern causal inference approaches to improve power for subgroup analysis in randomized controlled trials</title>
+      <link>https://michelesantacatterina.github.io/publication/subgroup/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/subgroup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification and estimation of causal effects using non-concurrent controls in platform trials</title>
       <link>https://michelesantacatterina.github.io/publication/nonconc/</link>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/nonconc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-parametric efficient estimation of marginal structural models with multi-valued time-varying treatments</title>
+      <link>https://michelesantacatterina.github.io/publication/npmsm/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/npmsm/</guid>
       <description></description>
     </item>
     
@@ -146,24 +179,6 @@ Jonathan Newman (Co-Principal Investigator)&lt;/p&gt;
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/kow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prevention of Covid-19 with the BNT162b2 and mRNA-1273 Vaccines</title>
-      <link>https://michelesantacatterina.github.io/publication/vacc-nejm/</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/vacc-nejm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep survival analysis with longitudinal X-rays for COVID-19</title>
-      <link>https://michelesantacatterina.github.io/publication/deep_surv/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/deep_surv/</guid>
       <description></description>
     </item>
     

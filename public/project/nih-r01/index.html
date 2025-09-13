@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Modeling multivariate time series is a well-established problem with a wide range of applications from healthcare to financial markets. Traditional State Space Models (SSMs) are classical approaches for univariate time series modeling due to their simplicity and expressive power to represent linear dependencies. They, however, have fundamentally limited expressive power to capture non-linear dependencies, are slow in practice, and fail to model the inter-variate information flow. Despite recent attempts to improve the expressive power of SSMs by using deep structured SSMs, the existing methods are either limited to univariate time series, fail to model complex patterns (e.g., seasonal patterns), fail to dynamically model the dependencies of variate and time dimensions, and/or are input-independent. We present Chimera that uses two input-dependent 2-D SSM heads with different discretization processes to learn long-term progression and seasonal patterns. To improve the efficiency of complex 2D recurrence, we present a fast training using a new 2-dimensional parallel selective scan. We further present and discuss 2-dimensional Mamba and Mamba-2 as the spacial cases of our 2D SSM. Our experimental evaluation shows the superior performance of Chimera on extensive and diverse benchmarks, including ECG and speech time series classification, long-term and short-term time series forecasting, and time series anomaly detection.">
+  <meta name="description" content="Adaptive randomized clinical trials are critical in infectious disease research, offering flexibility to adjust sample sizes, introduce new interventions, discontinue ineffective treatments, and target specific subgroups to enhance treatment efficacy. This adaptability is particularly valuable in rapidly evolving public health crises, such as the development of treatments for emerging infectious diseases like COVID-19. However, adaptive trials present significant challenges, including unclear inferential targets, statistical biases from temporal and spatial variability, complexities in handling dynamic data structures, and an increased risk of false-positive findings.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://michelesantacatterina.github.io/publication/chimera/">
+  <link rel="alternate" hreflang="en-us" href="https://michelesantacatterina.github.io/project/nih-r01/">
 
   
 
@@ -36,6 +36,13 @@
   
     
   
+  
+    
+    
+      
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+      
+    
   
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
@@ -77,7 +84,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://michelesantacatterina.github.io/publication/chimera/">
+  <link rel="canonical" href="https://michelesantacatterina.github.io/project/nih-r01/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -85,19 +92,19 @@
   <meta property="twitter:creator" content="@https://twitter.com/SantacatterinaM">
   
   <meta property="og:site_name" content="">
-  <meta property="og:url" content="https://michelesantacatterina.github.io/publication/chimera/">
-  <meta property="og:title" content="Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models | ">
-  <meta property="og:description" content="Modeling multivariate time series is a well-established problem with a wide range of applications from healthcare to financial markets. Traditional State Space Models (SSMs) are classical approaches for univariate time series modeling due to their simplicity and expressive power to represent linear dependencies. They, however, have fundamentally limited expressive power to capture non-linear dependencies, are slow in practice, and fail to model the inter-variate information flow. Despite recent attempts to improve the expressive power of SSMs by using deep structured SSMs, the existing methods are either limited to univariate time series, fail to model complex patterns (e.g., seasonal patterns), fail to dynamically model the dependencies of variate and time dimensions, and/or are input-independent. We present Chimera that uses two input-dependent 2-D SSM heads with different discretization processes to learn long-term progression and seasonal patterns. To improve the efficiency of complex 2D recurrence, we present a fast training using a new 2-dimensional parallel selective scan. We further present and discuss 2-dimensional Mamba and Mamba-2 as the spacial cases of our 2D SSM. Our experimental evaluation shows the superior performance of Chimera on extensive and diverse benchmarks, including ECG and speech time series classification, long-term and short-term time series forecasting, and time series anomaly detection.">
+  <meta property="og:url" content="https://michelesantacatterina.github.io/project/nih-r01/">
+  <meta property="og:title" content="SCH: A structural causal framework for adaptive experiments | ">
+  <meta property="og:description" content="Adaptive randomized clinical trials are critical in infectious disease research, offering flexibility to adjust sample sizes, introduce new interventions, discontinue ineffective treatments, and target specific subgroups to enhance treatment efficacy. This adaptability is particularly valuable in rapidly evolving public health crises, such as the development of treatments for emerging infectious diseases like COVID-19. However, adaptive trials present significant challenges, including unclear inferential targets, statistical biases from temporal and spatial variability, complexities in handling dynamic data structures, and an increased risk of false-positive findings.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2024-06-06T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2025-08-18T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2024-06-06T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2025-08-18T00:00:00&#43;00:00">
   
 
-  <title>Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models | </title>
+  
+
+  <title>SCH: A structural causal framework for adaptive experiments | </title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -287,53 +294,52 @@
   </div>
 </nav>
 
-<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
 
   
 
 
   <div class="article-container">
-    <h1 itemprop="name">Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models</h1>
-    <span class="pub-authors" itemprop="author">
-      
-      A Behrouz, M Santacatterina, R Zabih
-      
-    </span>
-    <span class="pull-right">
-      
+
+    <div class="pub-title">
+      <h1 itemprop="name">SCH: A structural causal framework for adaptive experiments</h1>
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+      <span class="pull-right">
+        
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Chimera%3a%20Effectively%20Modeling%20Multivariate%20Time%20Series%20with%202-Dimensional%20State%20Space%20Models&amp;url=https%3a%2f%2fmichelesantacatterina.github.io%2fpublication%2fchimera%2f"
+         href="https://twitter.com/intent/tweet?text=SCH%3a%20A%20structural%20causal%20framework%20for%20adaptive%20experiments&amp;url=https%3a%2f%2fmichelesantacatterina.github.io%2fproject%2fnih-r01%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmichelesantacatterina.github.io%2fpublication%2fchimera%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmichelesantacatterina.github.io%2fproject%2fnih-r01%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fmichelesantacatterina.github.io%2fpublication%2fchimera%2f&amp;title=Chimera%3a%20Effectively%20Modeling%20Multivariate%20Time%20Series%20with%202-Dimensional%20State%20Space%20Models"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fmichelesantacatterina.github.io%2fproject%2fnih-r01%2f&amp;title=SCH%3a%20A%20structural%20causal%20framework%20for%20adaptive%20experiments"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fmichelesantacatterina.github.io%2fpublication%2fchimera%2f&amp;title=Chimera%3a%20Effectively%20Modeling%20Multivariate%20Time%20Series%20with%202-Dimensional%20State%20Space%20Models"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fmichelesantacatterina.github.io%2fproject%2fnih-r01%2f&amp;title=SCH%3a%20A%20structural%20causal%20framework%20for%20adaptive%20experiments"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Chimera%3a%20Effectively%20Modeling%20Multivariate%20Time%20Series%20with%202-Dimensional%20State%20Space%20Models&amp;body=https%3a%2f%2fmichelesantacatterina.github.io%2fpublication%2fchimera%2f">
+         href="mailto:?subject=SCH%3a%20A%20structural%20causal%20framework%20for%20adaptive%20experiments&amp;body=https%3a%2f%2fmichelesantacatterina.github.io%2fproject%2fnih-r01%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -341,110 +347,56 @@
 </div>
 
 
-    </span>
-
-    
-
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Modeling multivariate time series is a well-established problem with a wide range of applications from healthcare to financial markets. Traditional State Space Models (SSMs) are classical approaches for univariate time series modeling due to their simplicity and expressive power to represent linear dependencies. They, however, have fundamentally limited expressive power to capture non-linear dependencies, are slow in practice, and fail to model the inter-variate information flow. Despite recent attempts to improve the expressive power of SSMs by using deep structured SSMs, the existing methods are either limited to univariate time series, fail to model complex patterns (e.g., seasonal patterns), fail to dynamically model the dependencies of variate and time dimensions, and/or are input-independent. We present Chimera that uses two input-dependent 2-D SSM heads with different discretization processes to learn long-term progression and seasonal patterns. To improve the efficiency of complex 2D recurrence, we present a fast training using a new 2-dimensional parallel selective scan. We further present and discuss 2-dimensional Mamba and Mamba-2 as the spacial cases of our 2D SSM. Our experimental evaluation shows the superior performance of Chimera on extensive and diverse benchmarks, including ECG and speech time series classification, long-term and short-term time series forecasting, and time series anomaly detection.</p>
-    
-
-    
-    <div class="row">
-      <div class="col-sm-1"></div>
-      <div class="col-sm-10">
-        <div class="row">
-          <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
-          <div class="col-xs-12 col-sm-9">
-            
-            <a href="/publication/#3">
-              Manuscript
-            </a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-1"></div>
+      </span>
     </div>
-    <div class="visible-xs space-below"></div>
-    
 
     
-    <div class="row">
-      <div class="col-sm-1"></div>
-      <div class="col-sm-10">
-        <div class="row">
-          <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Advances in Neural Information Processing Systems (NeurIPS 2024)</div>
-        </div>
-      </div>
-      <div class="col-sm-1"></div>
+    <a class="btn btn-primary btn-outline" href="https://reporter.nih.gov/search/zVwyB0Yji0SlXgeB5yIZvw/project-details/11307544#description" target="_blank" rel="noopener">Go to Project Site</a>
+    
+
+    <div class="article-style" itemprop="articleBody">
+      <p>Adaptive randomized clinical trials are critical in infectious disease research, offering flexibility to adjust sample sizes, introduce new interventions, discontinue ineffective treatments, and target specific subgroups to enhance treatment efficacy. This adaptability is particularly valuable in rapidly evolving public health crises, such as the development of treatments for emerging infectious diseases like COVID-19. However, adaptive trials present significant challenges, including unclear inferential targets, statistical biases from temporal and spatial variability, complexities in handling dynamic data structures, and an increased risk of false-positive findings. These concerns are reflected in recent FDA guidance on estimands, which emphasizes the need for clearly defined inferential targets, and on adaptive designs, which acknowledges that statistical bias in adaptive trials remains an understudied issue. Despite these recognized challenges, current research lacks a principled framework for structurally representing and unbiasedly estimating causal effects in adaptive trials. This project will develop a structural causal framework for adaptive trials, leveraging modern causal inference and statistical techniques alongside secondary data from the Adaptive COVID-19 Treatment Trial (ACTT)—an adaptive trial evaluating novel therapeutics in hospitalized COVID-19 patients—to enable transparent, efficient, and statistically unbiased estimation of causal effects. To achieve this, we propose the following specific aims: Aim 1: Develop a structural causal approach that deals with temporal variability. Aim 2: Extend our framework to handle spatial variability. Aim 3: Expand our framework to handle complex data structures, including failure-time and missing data, while dealing with false-positive results. Our project aligns with NIAID’s mission by advancing key methodologies for infectious disease clinical trials, particularly in adaptive designs for pandemic response, emerging pathogens, and the development of antiviral treatments. While our primary focus is on infectious disease trials, our methods have broader applicability to other disease areas, such as schizophrenia. We show this by also leveraging secondary data from schizophrenia studies, including the DECIFER trial, the RAISE study, and the EPINET study. RELEVANCE (See instructions): This research aims to improve how adaptive clinical trials are designed and analyzed. By developing methods that address key challenges in adaptive trials, our work will help ensure more accurate and reliable results, ultimately leading to better treatments and public health responses to emerging infectious diseases.</p>
+
+<p><strong>NSF Award Number</strong>:   1R01AI197146-01</p>
+
+<p><strong>Start Date</strong>: August 6, 2025</p>
+
+<p><strong>End Date</strong>:   July 31, 2029 (Estimated)</p>
+
+<p><strong>Total Intended Award Amount</strong>:    $1,197,688.00</p>
+
+<p><strong>History of Investigator</strong>:<br />
+Michele Santacatterina (Principal Investigator, Contact)
+Ivan Diaz (co-Principal Investigator)
+Andrea Troxel (co-Investigator)
+Donald Goff (co-Investigator)</p>
+
     </div>
-    <div class="visible-xs space-below"></div>
-    
-
-    <div class="row">
-      <div class="col-sm-1"></div>
-      <div class="col-sm-10">
-        <div class="row">
-          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            June, 2024
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-1"></div>
-    </div>
-    <div class="visible-xs space-below"></div>
-
-    <div class="row" style="padding-top: 10px">
-      <div class="col-sm-1"></div>
-      <div class="col-sm-10">
-        <div class="row">
-          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
-          <div class="col-xs-12 col-sm-9">
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/2406.04320" target="_blank" rel="noopener">
-  arXiv
-</a>
-
-
-
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-1"></div>
-    </div>
-    <div class="visible-xs space-below"></div>
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
 
     
 
+
+
+
+
+    
+    
+    
+
+    
+      
+      
+      
+      
+
+      
+      
+      
+      
+    
 
   </div>
-</div>
+</article>
 
 
 
@@ -515,6 +467,17 @@
     
 
     
+    
+      
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
     
 
     

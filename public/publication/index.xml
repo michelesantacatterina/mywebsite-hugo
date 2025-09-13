@@ -13,20 +13,29 @@
     
     
     <item>
-      <title>Non-parametric efficient estimation of marginal structural models with multi-valued time-varying treatments</title>
-      <link>https://michelesantacatterina.github.io/publication/npmsm/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <title>Modern causal inference approaches to improve power for subgroup analysis in randomized controlled trials</title>
+      <link>https://michelesantacatterina.github.io/publication/subgroup/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://michelesantacatterina.github.io/publication/npmsm/</guid>
+      <guid>https://michelesantacatterina.github.io/publication/subgroup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification and estimation of causal effects using non-concurrent controls in platform trials</title>
       <link>https://michelesantacatterina.github.io/publication/nonconc/</link>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/nonconc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-parametric efficient estimation of marginal structural models with multi-valued time-varying treatments</title>
+      <link>https://michelesantacatterina.github.io/publication/npmsm/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/npmsm/</guid>
       <description></description>
     </item>
     

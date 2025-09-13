@@ -15,7 +15,10 @@ weight = 70
 
 +++
 
-When I am not reading about biostatistics and data science, I like to learn more about contemporary history. I also enjoy keeping myself active by running. I love to play and listen to music, especially electronic and film music. Over the past few years, I have started several electronic music projects that involve production using [Ableton Live](https://www.ableton.com/en/live/). Last but not least, I love to play, cuddle and spoil my fluffy dog [*Mister Pom Princess ``PK'' Cake*](https://www.instagram.com/pk_the_pom/). 
+
+When I’m not immersed in biostatistics, I enjoy reading contemporary history and science fiction. I’m a Liverpool FC supporter. To stay active, I run regularly. Music is another passion of mine, I love both listening and creating, especially electronic and film music. Over the past few years, I’ve launched several electronic music projects using [Ableton Live](https://www.ableton.com/en/live/).
+
+And last but not least, I spend as much time as possible playing with, cuddling, and spoiling my fluffy dog, [*Mister Pom Princess ``PK'' Cake*](https://www.instagram.com/pk_the_pom/).
 
 
 <img src="/img/pk_pom_flower.jpeg" alt="Princess Cake" width="200"/>

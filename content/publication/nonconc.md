@@ -1,6 +1,6 @@
 +++
 title = "Identification and estimation of causal effects using non-concurrent controls in platform trials"
-date = "2024-07-17"
+date = "2025-03-15"
 
 # Authors. Comma separated list, e.g. `["Michele Santacatterina"]`.
 authors = ["M Santacatterina, F Macchiavelli Giron, X Zhang, I Diaz"]
@@ -14,11 +14,11 @@ authors = ["M Santacatterina, F Macchiavelli Giron, X Zhang, I Diaz"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Under Review"
-publication_short = "Under Review"
+publication = "Statistics in Medicine"
+publication_short = "Statistics in Medicine"
 
 # Abstract and optional shortened version.
 abstract = "Platform trials are multi-arm designs that simultaneously evaluate multiple treatments for a single disease within the same overall trial structure. Unlike traditional randomized controlled trials, they allow treatment arms to enter and exit the trial at distinct times while maintaining a control arm throughout. This control arm comprises both concurrent controls, where participants are randomized concurrently to either the treatment or control arm, and non-concurrent controls, who enter the trial when the treatment arm under study is unavailable. While flexible, platform trials introduce a unique challenge with the use of non-concurrent controls, raising questions about how to efficiently utilize their data to estimate treatment effects. Specifically, what estimands should be used to evaluate the causal effect of a treatment versus control? Under what assumptions can these estimands be identified and estimated? Do we achieve any efficiency gains? In this paper, we use structural causal models and counterfactuals to clarify estimands and formalize their identification in the presence of non-concurrent controls in platform trials. We also provide outcome regression, inverse probability weighting, and doubly robust estimators for their estimation. We discuss efficiency gains, demonstrate their performance in a simulation study, and apply them to the ACTT platform trial, resulting in a 20% improvement in precision."
@@ -38,7 +38,7 @@ selected = true
 
 # Links (optional).
 #url_project = ""
-url_pdf = ""
+url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.70017"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
