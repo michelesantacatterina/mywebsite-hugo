@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://michelesantacatterina.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Clarifying identification and estimation of treatment effects in the Sequential Parallel Comparison Design</title>
+      <link>https://michelesantacatterina.github.io/publication/spcd/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/spcd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modern causal inference approaches to improve power for subgroup analysis in randomized controlled trials</title>
