@@ -20,17 +20,19 @@
 	
 	http://localhost:1313/
 	
-	ctrl+c to stop server 
+	ctrl+c to stop server
 
-4. ###Remove old public folder
+Note CV: change config.toml and add new cv in static/files
+
+5. ###Remove old public folder
 
 	rm -rf public 
 
-5. ###Build website
+6. ###Build website
 
 	hugo
 	
-6. ###Add new content to michelesantacatterina.github.io
+7. ###Add new content to michelesantacatterina.github.io
 
 	cd ..
 	
